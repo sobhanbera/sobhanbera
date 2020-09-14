@@ -32,6 +32,7 @@
 
 [<img align="left" alt="SobhanBera | CPP" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][instagram]
 [<img align="left" alt="SobhanBera | Java" width="22px" src="https://icon-library.com/images/java-icon-images/java-icon-images-11.jpg" />][instagram]
+[<img align="left" alt="SobhanBera | JavaScript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][instagram]
 [<img align="left" alt="SobhanBera | JavaScript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][instagram]
 [<img align="left" alt="SobhanBera | React" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][instagram]
 [<img align="left" alt="SobhanBera | HTML" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][instagram]
