@@ -4,11 +4,30 @@
 
 - 🔭 I’m currently working on an android develpoment project, and competitive programming.
 - 🌱 I’m currently learning frontend
-- 🥅 2020 Aim: Contribute more to Open Source projects
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to ride cycle, and play games
 
 <br/>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SobhanBera&show_icons=true&count_private=true&theme=red" width="350"></a>
+</p>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/sobhan-bera-82a435197/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/sobhanbera_/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
+
+<p align='center'>
+  <a href="https://www.facebook.com/sobhan.b.90/">
+    <img src="https://img.shields.io/badge/facebook-%233b5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/BeraSobhan">
+    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
 
 ### My Competitive Programming Profile :-
 
@@ -16,15 +35,6 @@
 [<img align="left" alt="SobhanBera | CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
 [<img align="left" alt="SobhanBera | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="SobhanBera | HackerEarth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />][hackerearth]
-
-<br/>
-
-### Connect With Me On :-
-
-[<img align="left" alt="SobhanBera | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="SobhanBera | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="SobhanBera | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="SobhanBera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
 
