@@ -31,8 +31,11 @@
 ### Languages :-
 
 [<img align="left" alt="SobhanBera | CPP" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][instagram]
-[<img align="left" alt="SobhanBera | Python" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][instagram]
 [<img align="left" alt="SobhanBera | Java" width="22px" src="https://icon-library.com/images/java-icon-images/java-icon-images-11.jpg" />][instagram]
+[<img align="left" alt="SobhanBera | JavaScript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][instagram]
+[<img align="left" alt="SobhanBera | React" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][instagram]
+[<img align="left" alt="SobhanBera | HTML" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][instagram]
+[<img align="left" alt="SobhanBera | CSS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][instagram]
 
 <br/>
 
@@ -43,8 +46,6 @@
 [<img align="left" alt="SobhanBera | Sublime Text Editor" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />][atom]
 [<img align="left" alt="SobhanBera | Android Studio" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][atom]
 [<img align="left" alt="SobhanBera | Visual Studio Code" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][atom]
-
-
 
 <br/>
 
