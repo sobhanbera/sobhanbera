@@ -1,6 +1,8 @@
-### Hi there My self Sobhan Bera 👋
+### Hi there I'm Sobhan 👋
 
 ### I'm a Son, Student, Competitive Programmer, and Learner!
+
+<!--[gif](https://github.com/SobhanBera/SobhanBera/blob/master/about.gif) -->
 
 - 🔭 I’m currently working on an android develpoment project, and competitive programming.
 - 🌱 I’m currently learning frontend
@@ -8,7 +10,7 @@
 <br/>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SobhanBera&show_icons=true&count_private=true&theme=red" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SobhanBera&show_icons=true&count_private=true&theme=dark" width="380"></a>
 </p>
 
 <p align='center'>
@@ -27,7 +29,18 @@
   <a href="https://twitter.com/BeraSobhan">
     <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  <a href="mailto:dhruvjainpenny@gmail.com">
+    <img src="https://img.shields.io/badge/-sobhanbera258@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sobhanbera258@gmail.com" />
+  </a>&nbsp;&nbsp;
 </p>
+
+<br/>
+
+<!-- <p align="center">  -->
+<!--   Visitor count<br> -->
+<!--   <img src="https://profile-counter.glitch.me/SobhanBera/count.svg" /></p> -->
+
+<br/>
 
 ### My Competitive Programming Profile :-
 
@@ -59,6 +72,27 @@
 [<img align="left" alt="SobhanBera | Visual Studio Code" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsc]
 
 <br/>
+<br/>
+
+<details>
+  <summary>📃 Other Details</summary>
+
+
+## Education
+
+- **Holy Home English High School Balaghat M.P.**\
+📆 2010 - 2018
+- **Balaghat English Higher Secondary School Balaghat M.P.**\
+📆 2018 - 2002
+
+## Passion
+
+- Coding and Programming\
+📆 2018 - Moment
+- **Self Taught** Android Developer.\
+📆 2018 - Moment
+- Competitive Programming\
+📆 2019 - Moment
 
 [linkedin]: https://www.linkedin.com/in/sobhan-bera-82a435197/
 [twitter]: https://twitter.com/BeraSobhan
