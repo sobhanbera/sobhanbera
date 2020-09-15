@@ -44,6 +44,13 @@
 - 🔭 I’m currently working on an android develpoment project, and competitive programming.
 - 🌱 I’m currently learning frontend
 
+<br>
+
+<p align='center'>
+  <a href="https://github.com/SobhanBera/SobhanBera">
+    <img src="https://github.com/SobhanBera/SobhanBera/blob/master/programming.gif"/></a>
+</p>
+
 <br/>
 
 ### My Competitive Programming Profile :-
