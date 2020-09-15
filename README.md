@@ -1,6 +1,12 @@
 <!--### Hi there I'm Sobhan 👋-->
 <!-- ### I'm a Son, Student, Competitive Programmer, and Learner! -->
-[gif](https://github.com/SobhanBera/SobhanBera/blob/master/sobhan.gif)
+
+
+
+<p align='center'>
+  <a href="https://github.com/SobhanBera/SobhanBera">
+    <img src="https://github.com/SobhanBera/SobhanBera/blob/master/sobhan.gif" width="600" height="74" /></a>
+</p>
 
 - 🔭 I’m currently working on an android develpoment project, and competitive programming.
 - 🌱 I’m currently learning frontend
