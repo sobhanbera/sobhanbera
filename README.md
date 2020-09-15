@@ -74,6 +74,7 @@
 [<img align="left" alt="SobhanBera | Sublime Text Editor" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />][sublime]
 [<img align="left" alt="SobhanBera | Android Studio" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
 [<img align="left" alt="SobhanBera | Visual Studio Code" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsc]
+[<img align="left" alt="SobhanBera | Git" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 
 <br/>
 <br/>
@@ -111,3 +112,4 @@
 [sublime]: https://www.sublimetext.com/
 [android]: https://developer.android.com/studio/
 [vsc]: https://code.visualstudio.com/
+[git]: https://git-scm.com/downloads
