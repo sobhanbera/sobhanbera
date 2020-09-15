@@ -1,8 +1,6 @@
-### Hi there I'm Sobhan 👋
-
-### I'm a Son, Student, Competitive Programmer, and Learner!
-
-<!--[gif](https://github.com/SobhanBera/SobhanBera/blob/master/about.gif) -->
+<!--### Hi there I'm Sobhan 👋-->
+<!-- ### I'm a Son, Student, Competitive Programmer, and Learner! -->
+[gif](https://github.com/SobhanBera/SobhanBera/blob/master/sobhan.gif)
 
 - 🔭 I’m currently working on an android develpoment project, and competitive programming.
 - 🌱 I’m currently learning frontend
