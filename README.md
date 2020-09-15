@@ -8,9 +8,6 @@
     <img src="https://github.com/SobhanBera/SobhanBera/blob/master/sobhan.gif" width="600" height="74" /></a>
 </p>
 
-- 🔭 I’m currently working on an android develpoment project, and competitive programming.
-- 🌱 I’m currently learning frontend
-
 <br/>
 
 <p align='center'>
@@ -43,6 +40,9 @@
 <!-- <p align="center">  -->
 <!--   Visitor count<br> -->
 <!--   <img src="https://profile-counter.glitch.me/SobhanBera/count.svg" /></p> -->
+
+- 🔭 I’m currently working on an android develpoment project, and competitive programming.
+- 🌱 I’m currently learning frontend
 
 <br/>
 
