@@ -7,9 +7,14 @@
 </p>
 
 <br/>
-
+<!--![Profile views](https://gpvc.arturio.dev/SobhanBera)-->
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SobhanBera&show_icons=true&count_private=true&theme=radical" width="380"></a>
+</p>
+
+<p align='center'>
+  <a href="https://github.com/SobhanBera/SobhanBera">
+    <img src="https://github.com/SobhanBera/SobhanBera/blob/master/programming.gif"/></a>
 </p>
 
 <p align='center'>
@@ -43,11 +48,6 @@
 - 🌱 I’m currently learning frontend
 
 <br>
-
-<p align='center'>
-  <a href="https://github.com/SobhanBera/SobhanBera">
-    <img src="https://github.com/SobhanBera/SobhanBera/blob/master/programming.gif"/></a>
-</p>
 
 <br/>
 
