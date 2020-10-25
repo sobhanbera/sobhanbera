@@ -40,6 +40,13 @@
 
 <br/>
 
+<p align='center'>
+  <img src="https://github-profile-trophy.vercel.app/?username=SobhanBera&theme=gruvbox&column=3&margin-w=15&margin-h=15"/>
+<!--      (https://github.com/SobhanBera/github-profile-trophy) -->
+</p>
+
+<br/>
+
 <!-- <p align="center">  -->
 <!--   Visitor count<br> -->
 <!--   <img src="https://profile-counter.glitch.me/SobhanBera/count.svg" /></p> -->
