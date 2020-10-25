@@ -6,16 +6,21 @@
     <img src="https://github.com/SobhanBera/SobhanBera/blob/master/sobhan.gif" width="600" height="74" /></a>
 </p>
 
+### Hello, Geeks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+## What I am Doing Currently?
+
+- I'm a fast learner looking for interesting career opportunities in Android and Web as a frontend developer. I am looking for growth. I am awaiting a job with a decent salary and more importantly, a chance to build up my career and skills.
+
+- Currently, I am looking for internships and research projects in the field of Computer science and engineering.
+
 <br/>
 <!--![Profile views](https://gpvc.arturio.dev/SobhanBera)-->
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SobhanBera&show_icons=true&count_private=true&theme=radical" width="380"></a>
 </p>
 
-<p align='center'>
-  <a href="https://github.com/SobhanBera/SobhanBera">
-    <img src="https://github.com/SobhanBera/SobhanBera/blob/master/programming.gif"/></a>
-</p>
+
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/sobhan-bera-82a435197/">
