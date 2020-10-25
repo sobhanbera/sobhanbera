@@ -65,8 +65,6 @@ I am Sobhan Bera. I consider myself as a smart worker and a fast learner. I am a
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-<br/>
-
 ### Tools I use :-
 
 [<img align="left" alt="SobhanBera | Vim" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][vim]
