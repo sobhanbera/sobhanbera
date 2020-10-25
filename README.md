@@ -11,7 +11,7 @@
 <br/>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SobhanBera&show_icons=true&count_private=true&theme=dark" width="380"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SobhanBera&show_icons=true&count_private=true&theme=radical" width="380"></a>
 </p>
 
 <p align='center'>
@@ -73,6 +73,9 @@
 [<img align="left" alt="SobhanBera | CSS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][instagram]
 
 <br/>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SobhanBera)](https://github.com/SobhanBera/github-readme-stats)
 
 ### Tools I use :-
 
