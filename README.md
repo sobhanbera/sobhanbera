@@ -1,8 +1,6 @@
 <!--### Hi there I'm Sobhan 👋-->
 <!-- ### I'm a Son, Student, Competitive Programmer, and Learner! -->
 
-
-
 <p align='center'>
   <a href="https://github.com/SobhanBera/SobhanBera">
     <img src="https://github.com/SobhanBera/SobhanBera/blob/master/sobhan.gif" width="600" height="74" /></a>
@@ -75,7 +73,7 @@
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SobhanBera)](https://github.com/SobhanBera/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SobhanBera&layout=compact)](https://github.com/SobhanBera)
 
 ### Tools I use :-
 
