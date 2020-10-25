@@ -6,9 +6,13 @@
     <img src="https://github.com/SobhanBera/SobhanBera/blob/master/sobhan.gif" width="600" height="74" /></a>
 </p>
 
-### Hello, Geeks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello, Geeks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## What I am Doing Currently?
+I am Sobhan Bera. I consider myself as a smart worker and a fast learner. I am an very experienced in C++, Java, Javascript including Frameworks, Android Development, Web Development, Frontend Development. I am also a competitive programmer. Beside I also enjoy riding cycle and solving rubix cube.
+
+### What I am Doing Currently?
+
+- 🔭 I’m currently working on an android develpoment project, and competitive programming.
 
 - I'm a fast learner looking for interesting career opportunities in Android and Web as a frontend developer. I am looking for growth. I am awaiting a job with a decent salary and more importantly, a chance to build up my career and skills.
 
@@ -16,11 +20,6 @@
 
 <br/>
 <!--![Profile views](https://gpvc.arturio.dev/SobhanBera)-->
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SobhanBera&show_icons=true&count_private=true&theme=radical" width="380"></a>
-</p>
-
-
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/sobhan-bera-82a435197/">
@@ -56,9 +55,6 @@
 <!--   Visitor count<br> -->
 <!--   <img src="https://profile-counter.glitch.me/SobhanBera/count.svg" /></p> -->
 
-- 🔭 I’m currently working on an android develpoment project, and competitive programming.
-- 🌱 I’m currently learning frontend
-
 <br>
 
 <br/>
@@ -74,18 +70,16 @@
 
 ### Languages :-
 
-[<img align="left" alt="SobhanBera | CPP" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][instagram]
-[<img align="left" alt="SobhanBera | Java" width="22px" src="https://icon-library.com/images/java-icon-images/java-icon-images-11.jpg" />][instagram]
-[<img align="left" alt="SobhanBera | JavaScript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][instagram]
-[<img align="left" alt="SobhanBera | JavaScript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][instagram]
-[<img align="left" alt="SobhanBera | React" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][instagram]
-[<img align="left" alt="SobhanBera | HTML" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][instagram]
-[<img align="left" alt="SobhanBera | CSS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][instagram]
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 <br/>
 <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SobhanBera&layout=compact)](https://github.com/SobhanBera)
 
 ### Tools I use :-
 
@@ -118,6 +112,19 @@
 📆 2018 - Moment
 - Competitive Programming\
 📆 2019 - Moment
+
+</details>
+
+<details>
+
+<summary>📈 My GitHub Stats</summary>
+  <p align='left'>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SobhanBera&show_icons=true&count_private=true&theme=radical" width="380"></a>
+  </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SobhanBera&layout=compact)](https://github.com/SobhanBera)
+  
+</details>
 
 [linkedin]: https://www.linkedin.com/in/sobhan-bera-82a435197/
 [twitter]: https://twitter.com/BeraSobhan
