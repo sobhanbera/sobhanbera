@@ -42,17 +42,9 @@ I am Sobhan Bera. I consider myself as a smart worker and a fast learner. I am a
   </a>&nbsp;&nbsp;
 </p>
 
-<br/>
-
-<br/>
-
 <!-- <p align="center">  -->
 <!--   Visitor count<br> -->
 <!--   <img src="https://profile-counter.glitch.me/SobhanBera/count.svg" /></p> -->
-
-<br>
-
-<br/>
 
 ### My Competitive Programming Profile :-
 
