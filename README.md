@@ -44,11 +44,6 @@ I am Sobhan Bera. I consider myself as a smart worker and a fast learner. I am a
 
 <br/>
 
-<p align='center'>
-  <img src="https://github-profile-trophy.vercel.app/?username=SobhanBera&theme=gruvbox&column=3&margin-w=15&margin-h=15"/>
-<!--      (https://github.com/SobhanBera/github-profile-trophy) -->
-</p>
-
 <br/>
 
 <!-- <p align="center">  -->
@@ -124,6 +119,10 @@ I am Sobhan Bera. I consider myself as a smart worker and a fast learner. I am a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SobhanBera&layout=compact)](https://github.com/SobhanBera)
   
+  <p align='left'>
+    <img src="https://github-profile-trophy.vercel.app/?username=SobhanBera&theme=gruvbox&column=3&margin-w=15&margin-h=15"/>
+  <!--      (https://github.com/SobhanBera/github-profile-trophy) -->
+  </p>
 </details>
 
 [linkedin]: https://www.linkedin.com/in/sobhan-bera-82a435197/
