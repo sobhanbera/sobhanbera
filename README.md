@@ -78,8 +78,7 @@ I am Sobhan Bera. I consider myself as a smart worker and a fast learner. I am a
 <br/>
 
 <details>
-  <summary>📃 Other Details</summary>
-
+  <summary>📃 Education And Passion</summary>
 
 ## Education
 
@@ -98,6 +97,8 @@ I am Sobhan Bera. I consider myself as a smart worker and a fast learner. I am a
 📆 2019 - Moment
 
 </details>
+
+</br>
 
 <details>
 
