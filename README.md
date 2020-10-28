@@ -21,27 +21,6 @@ I am Sobhan Bera. I consider myself as a smart worker and a fast learner. I am a
 <br/>
 <!--![Profile views](https://gpvc.arturio.dev/SobhanBera)-->
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/sobhan-bera-82a435197/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/sobhanbera_/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-</p>
-
-<p align='center'>
-  <a href="https://www.facebook.com/sobhan.b.90/">
-    <img src="https://img.shields.io/badge/facebook-%233b5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/BeraSobhan">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="mailto:dhruvjainpenny@gmail.com">
-    <img src="https://img.shields.io/badge/-sobhanbera258@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sobhanbera258@gmail.com" />
-  </a>&nbsp;&nbsp;
-</p>
-
 <!-- <p align="center">  -->
 <!--   Visitor count<br> -->
 <!--   <img src="https://profile-counter.glitch.me/SobhanBera/count.svg" /></p> -->
@@ -57,14 +36,11 @@ I am Sobhan Bera. I consider myself as a smart worker and a fast learner. I am a
 
 ### Languages And Tools I Use:-
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+Languages: <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> -->
-<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> -->
-
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> Tools: 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png"></code>
@@ -109,6 +85,27 @@ I am Sobhan Bera. I consider myself as a smart worker and a fast learner. I am a
   <!--      (https://github.com/SobhanBera/github-profile-trophy) -->
   </p>
 </details>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/sobhan-bera-82a435197/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/sobhanbera_/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
+
+<p align='center'>
+  <a href="https://www.facebook.com/sobhan.b.90/">
+    <img src="https://img.shields.io/badge/facebook-%233b5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/BeraSobhan">
+    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="mailto:dhruvjainpenny@gmail.com">
+    <img src="https://img.shields.io/badge/-sobhanbera258@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sobhanbera258@gmail.com" />
+  </a>&nbsp;&nbsp;
+</p>
 
 [linkedin]: https://www.linkedin.com/in/sobhan-bera-82a435197/
 [twitter]: https://twitter.com/BeraSobhan
