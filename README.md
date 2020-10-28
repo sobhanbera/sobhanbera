@@ -3,21 +3,22 @@
 
 <p align='center'>
   <a href="https://github.com/SobhanBera">
-    <img src="https://github.com/SobhanBera/SobhanBera/blob/master/sobhan.gif" width="600" height="74" /></a>
 </p>
 
 ## Hello, Geeks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I am Sobhan Bera. I consider myself as a smart worker and a fast learner. I am an very experienced in C++, Java, Javascript including Frameworks, Android Development, Web Development, Frontend Development. I am also a competitive programmer. Beside I also enjoy riding cycle and solving rubix cube.
   
-  <img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/programming_all_day_gif.gif" width="400px" height="300px">
+  <img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/open_source_contribution.gif" width="" height="180" />
 
 ### What I am Doing Currently?
 
 - 🔭 I’m currently working on an android develpoment project, and competitive programming.
-
+  
 - I'm a fast learner looking for interesting career opportunities in Android and Web as a frontend developer. I am looking for growth. I am awaiting a job with a decent salary and more importantly, a chance to build up my career and skills.
-
+  
+  <img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/programming_all_day_gif.gif" width="400px" height="300px">
+  
 - Currently, I am looking for internships and research projects in the field of Computer science and engineering.
 
 ### Languages And Tools I Use:-
