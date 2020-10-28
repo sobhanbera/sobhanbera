@@ -18,22 +18,6 @@ I am Sobhan Bera. I consider myself as a smart worker and a fast learner. I am a
 
 - Currently, I am looking for internships and research projects in the field of Computer science and engineering.
 
-<br/>
-<!--![Profile views](https://gpvc.arturio.dev/SobhanBera)-->
-
-<!-- <p align="center">  -->
-<!--   Visitor count<br> -->
-<!--   <img src="https://profile-counter.glitch.me/SobhanBera/count.svg" /></p> -->
-
-<!--### My Competitive Programming Profile :- -->
-
-<!-- [<img align="left" alt="SobhanBera | CodeForces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces] -->
-<!-- [<img align="left" alt="SobhanBera | CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef] -->
-<!-- [<img align="left" alt="SobhanBera | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank] -->
-<!-- [<img align="left" alt="SobhanBera | HackerEarth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />][hackerearth] -->
-
-<!--<br/>-->
-
 ### Languages And Tools I Use:-
 
 Languages: <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -111,10 +95,6 @@ Languages: <code><img height="30" src="https://raw.githubusercontent.com/github/
 [twitter]: https://twitter.com/BeraSobhan
 [instagram]: https://www.instagram.com/sobhanbera_/
 [facebook]: https://www.facebook.com/sobhan.b.90/
-[codeforces]: https://codeforces.com/profile/sobhanbera
-[codechef]: https://www.codechef.com/users/sobhanbera
-[hackerrank]: https://www.hackerrank.com/lastwarrior436
-[hackerearth]: https://www.hackerearth.com/@Sobhan_Bera
 [vim]: https://www.vim.org/download.php
 [atom]: https://atom.io/
 [sublime]: https://www.sublimetext.com/
