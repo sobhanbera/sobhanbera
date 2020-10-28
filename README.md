@@ -46,14 +46,14 @@ I am Sobhan Bera. I consider myself as a smart worker and a fast learner. I am a
 <!--   Visitor count<br> -->
 <!--   <img src="https://profile-counter.glitch.me/SobhanBera/count.svg" /></p> -->
 
-### My Competitive Programming Profile :-
+<!--### My Competitive Programming Profile :- -->
 
-[<img align="left" alt="SobhanBera | CodeForces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
-[<img align="left" alt="SobhanBera | CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
-[<img align="left" alt="SobhanBera | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="SobhanBera | HackerEarth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />][hackerearth]
+<!-- [<img align="left" alt="SobhanBera | CodeForces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces] -->
+<!-- [<img align="left" alt="SobhanBera | CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef] -->
+<!-- [<img align="left" alt="SobhanBera | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank] -->
+<!-- [<img align="left" alt="SobhanBera | HackerEarth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />][hackerearth] -->
 
-<br/>
+<!--<br/>-->
 
 ### Languages :-
 
@@ -91,7 +91,7 @@ I am Sobhan Bera. I consider myself as a smart worker and a fast learner. I am a
 
 - Coding and Programming\
 📆 2018 - Moment
-- **Self Taught** Android Developer.\
+- **Self Taught** Android Developer(Intermediate).\
 📆 2018 - Moment
 - Competitive Programming\
 📆 2019 - Moment
