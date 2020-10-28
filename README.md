@@ -2,13 +2,15 @@
 <!-- ### I'm a Son, Student, Competitive Programmer, and Learner! -->
 
 <p align='center'>
-  <a href="https://github.com/SobhanBera/SobhanBera">
+  <a href="https://github.com/SobhanBera">
     <img src="https://github.com/SobhanBera/SobhanBera/blob/master/sobhan.gif" width="600" height="74" /></a>
 </p>
 
 ## Hello, Geeks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I am Sobhan Bera. I consider myself as a smart worker and a fast learner. I am an very experienced in C++, Java, Javascript including Frameworks, Android Development, Web Development, Frontend Development. I am also a competitive programmer. Beside I also enjoy riding cycle and solving rubix cube.
+  
+  <img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/programming_all_day_gif.gif" width="400px" height="300px">
 
 ### What I am Doing Currently?
 
