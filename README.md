@@ -19,7 +19,7 @@ I am Sobhan Bera. I consider myself as a smart worker and a fast learner. I am a
   
 - Currently, I am looking for internships and research projects in the field of Computer science and engineering.
 
-### Languages And Tools: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="40px">
+### Languages And Tools: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
 
 <code><img alt="c plus plus" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img alt="java" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
