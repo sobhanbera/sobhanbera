@@ -14,12 +14,12 @@ I am Sobhan Bera. I consider myself as a smart worker and a fast learner. I am a
 - 2020 Goals: Contribute ad much as to Open Source projects.
 
 - I'm a fast learner. And I am interseted to learn new technologies everytime. I am passionate about computers.
-  
+   
   <img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/programming_all_day_gif.gif" width="400px" height="300px">
   
 - Currently, I am looking for internships and research projects in the field of Computer science and engineering.
 
-### Languages And Tools:
+### Languages And Tools: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="40px">
 
 <code><img alt="c plus plus" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img alt="java" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -63,7 +63,7 @@ I am Sobhan Bera. I consider myself as a smart worker and a fast learner. I am a
 </details>
 
 <details>
-  <summary>📈 My GitHub Stats</summary>
+  <summary>📈 My GitHub Stats<img src="https://github.com/SobhanBera/SobhanBera/blob/master/octocat.gif" width="35px"></summary>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=SobhanBera&show_icons=true&count_private=true&theme=radical" width="350">
   </P>
