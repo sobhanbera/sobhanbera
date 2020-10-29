@@ -1,6 +1,3 @@
-<!--### Hi there I'm Sobhan 👋-->
-<!-- ### I'm a Son, Student, Competitive Programmer, and Learner! -->
-
 <p align='center'>
   <a href="https://github.com/SobhanBera">
 </p>
@@ -21,7 +18,7 @@ I am Sobhan Bera. I consider myself as a smart worker and a fast learner. I am a
   
 - Currently, I am looking for internships and research projects in the field of Computer science and engineering.
 
-### Languages And Tools I Use:-
+### Languages And Tools:
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -58,20 +55,15 @@ I am Sobhan Bera. I consider myself as a smart worker and a fast learner. I am a
 
 </details>
 
-
 <details>
-
-<summary>📈 My GitHub Stats</summary>
-  <p align='left'>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SobhanBera&show_icons=true&count_private=true&theme=radical" width="380"></a>
+  <summary>📈 My GitHub Stats</summary>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=SobhanBera&show_icons=true&count_private=true&theme=radical" width="350">
+  </P>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SobhanBera&layout=compact" width="350">
   </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SobhanBera&layout=compact)](https://github.com/SobhanBera)
-  
-  <p align='left'>
-    <img src="https://github-profile-trophy.vercel.app/?username=SobhanBera&theme=gruvbox&column=3&margin-w=15&margin-h=15"/>
-  <!--      (https://github.com/SobhanBera/github-profile-trophy) -->
-  </p>
+<!--   TROPHY  <img src="https://github-profile-trophy.vercel.app/?username=SobhanBera&theme=gruvbox&column=3&margin-w=15&margin-h=15"/> -->
 </details>
 
 <p align='center'>
