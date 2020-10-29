@@ -10,9 +10,10 @@ I am Sobhan Bera. I consider myself as a smart worker and a fast learner. I am a
 
 ### What I am Doing Currently?
 
-- 🔭 I’m currently working on an android develpoment project, and competitive programming.
-  
-- I'm a fast learner looking for interesting career opportunities in Android and Web as a frontend developer. I am looking for growth. I am awaiting a job with a decent salary and more importantly, a chance to build up my career and skills.
+- I am very much addicted with open-source contribution, and I will contribute forever.
+- 2020 Goals: Contribute ad much as to Open Source projects.
+
+- I'm a fast learner.
   
   <img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/programming_all_day_gif.gif" width="400px" height="300px">
   
