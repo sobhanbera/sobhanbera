@@ -13,7 +13,7 @@ I am Sobhan Bera. I consider myself as a smart worker and a fast learner. I am a
 - I am very much addicted with open-source contribution, and I will contribute forever.
 - 2020 Goals: Contribute ad much as to Open Source projects.
 
-- I'm a fast learner.
+- I'm a fast learner. And I am interseted to learn new technologies everytime. I am passionate about computers.
   
   <img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/programming_all_day_gif.gif" width="400px" height="300px">
   
