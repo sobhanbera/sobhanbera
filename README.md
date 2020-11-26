@@ -4,7 +4,7 @@
 
 ## Hello, Geeks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am Sobhan Bera. I consider myself as a smart worker and a fast learner. I am an very experienced in C++, Java, Javascript including Frameworks, Android Development, Web Development, Frontend Development. I am also a competitive programmer. Beside I also enjoy riding cycle and solving rubix cube.
+I am Sobhan Bera. I consider myself as a fast learner. I am an very experienced in C++, Java, Javascript including Frameworks, Android Development, Web Development, Frontend Development. I am also a competitive programmer. Beside I also enjoy riding cycle and solving rubix cube.
   
   <img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/open_source_contribution.gif" width="" height="180" />
 
