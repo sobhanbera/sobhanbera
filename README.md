@@ -20,7 +20,7 @@ I am Sobhan Bera. I consider myself as a fast learner. I am an very experienced 
 ### Languages And Tools: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
 
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=097CDB)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C++&logoColor=097CDB)
+![C++](https://img.shields.io/badge/-c++-090909?style=for-the-badge&logo=C%2B%2B&logoColor=097CDB)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=097CDB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=097CDB)
 ![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=Javascript&logoColor=097CDB)
@@ -34,7 +34,7 @@ I am Sobhan Bera. I consider myself as a fast learner. I am an very experienced 
 ![Atom](https://img.shields.io/badge/-atom-090909?style=for-the-badge&logo=atom&logoColor=097CDB)
 ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=097CDB)
 ![GitHub](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github&logoColor=097CDB)
-![Terminal](https://img.shields.io/badge/-terminal-090909?style=for-the-badge&logo=terminal&logoColor=097CDB)
+![Terminal](http://img.shields.io/badge/-terminal-090909?style=for-the-badge&logo=powershell&logoColor=097CDB)
 ![Linux](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux&logoColor=097CDB)
 <!-- <code><img alt="visual studio code" height="26px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code> -->
