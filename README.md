@@ -29,14 +29,17 @@ I am Sobhan Bera. I consider myself as a fast learner. I am an very experienced 
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&logoColor=097CDB)
 ![SASS](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass&logoColor=097CDB)
 ![Less](https://img.shields.io/badge/-Less-090909?style=for-the-badge&logo=Less&logoColor=097CDB)
-![Less](https://img.shields.io/badge/-vscode-090909?style=for-the-badge&logo=vscode&logoColor=097CDB)
-![Less](https://img.shields.io/badge/-vim-090909?style=for-the-badge&logo=vim&logoColor=097CDB)
-![Less](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=097CDB)
-![Less](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github&logoColor=097CDB)
-![Less](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=sql&logoColor=097CDB)
-![Less](https://img.shields.io/badge/-terminal-090909?style=for-the-badge&logo=terminal&logoColor=097CDB)
-![Less](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux&logoColor=097CDB)
-<!-- <code><img alt="visual studio code" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code> -->
+![VIM](https://img.shields.io/badge/-vim-090909?style=for-the-badge&logo=vim&logoColor=097CDB)
+![VSCODE](https://img.shields.io/badge/-vscode-090909?style=for-the-badge&logo=vscode&logoColor=097CDB)
+![Atom](https://img.shields.io/badge/-atom-090909?style=for-the-badge&logo=atom&logoColor=097CDB)
+![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=097CDB)
+![GitHub](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github&logoColor=097CDB)
+![Terminal](https://img.shields.io/badge/-terminal-090909?style=for-the-badge&logo=terminal&logoColor=097CDB)
+![Linux](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux&logoColor=097CDB)
+<!-- <code><img alt="visual studio code" height="26px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code> -->
+<!--![SQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=sql&logoColor=097CDB)-->
+
 <br/>
 
 <details>
