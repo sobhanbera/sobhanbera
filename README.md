@@ -19,12 +19,12 @@ I am Sobhan Bera. I consider myself as a fast learner. I am an very experienced 
 
 ### Languages And Tools: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
 
-![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=097CDB)
-![C++](https://img.shields.io/badge/-c++-090909?style=for-the-badge&logo=C%2B%2B&logoColor=097CDB)
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=097CDB)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=097CDB)
-![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=Javascript&logoColor=097CDB)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=097CDB)
+![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=283593)
+![C++](https://img.shields.io/badge/-c++-090909?style=for-the-badge&logo=C%2B%2B&logoColor=00549D)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=f89820)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=306998)
+![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=Javascript&logoColor=fdc500)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=61DBFB)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=097CDB)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&logoColor=097CDB)
 ![SASS](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass&logoColor=097CDB)
