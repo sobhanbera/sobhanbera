@@ -87,7 +87,7 @@ I am Sobhan Bera. I consider myself as a fast learner. I am an very experienced 
   <a href="https://twitter.com/BeraSobhan">
     <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="mailto:dhruvjainpenny@gmail.com">
+  <a href="mailto:sobhanbera258@gmail.com">
     <img src="https://img.shields.io/badge/-sobhanbera258@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sobhanbera258@gmail.com" />
   </a>&nbsp;&nbsp;
 </p>
