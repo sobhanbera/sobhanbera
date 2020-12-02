@@ -19,23 +19,31 @@ I am Sobhan Bera. I consider myself as a fast learner. I am an very experienced 
 
 ### Languages And Tools: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
 
-<code><img alt="c plus plus" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img alt="java" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img alt="python" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img alt="javascript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img alt="react" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img alt="html" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img alt="css" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img alt="c sass" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=097CDB)
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C++&logoColor=097CDB)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=097CDB)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=097CDB)
+![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=Javascript&logoColor=097CDB)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=097CDB)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=097CDB)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&logoColor=097CDB)
+![SASS](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass&logoColor=097CDB)
+![Less](https://img.shields.io/badge/-Less-090909?style=for-the-badge&logo=Less&logoColor=097CDB)
 
 <code><img alt="visual studio code" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+![Less](https://img.shields.io/badge/-vscode-090909?style=for-the-badge&logo=vscode&logoColor=097CDB)
 <code><img alt="vim" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
+![Less](https://img.shields.io/badge/-vim-090909?style=for-the-badge&logo=vim&logoColor=097CDB)
 <code><img alt="git" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+![Less](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=097CDB)
 <code><img alt="github" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
+![Less](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github&logoColor=097CDB)
 <code><img alt="sql" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img alt="mysql" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+![Less](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=sql&logoColor=097CDB)
 <code><img alt="terminal" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+![Less](https://img.shields.io/badge/-terminal-090909?style=for-the-badge&logo=terminal&logoColor=097CDB)
 <code><img alt="linux" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+![Less](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux&logoColor=097CDB)
 
 <br/>
 
