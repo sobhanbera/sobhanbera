@@ -34,8 +34,12 @@ I am Sobhan Bera. I consider myself as a fast learner. I am an very experienced 
 ![Atom](https://img.shields.io/badge/-atom-090909?style=for-the-badge&logo=atom&logoColor=808080)
 ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=F4511E)
 ![GitHub](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github&logoColor=00BCD4)
-![Terminal](http://img.shields.io/badge/-terminal-090909?style=for-the-badge&logo=powershell&logoColor=097CDB)
-![Linux](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux&logoColor=097CDB)
+![Terminal](http://img.shields.io/badge/-terminal-090909?style=for-the-badge&logo=powershell&logoColor=793535)
+![Linux](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux&logoColor=ffdf00)
+![Firebase](https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase&logoColor=F5854A)
+![Figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma&logoColor=F06D5D)
+![Adobe XD](https://img.shields.io/badge/-axd-090909?style=for-the-badge&logo=adobe-xd&logoColor=F27AF4)
+
 <!-- <code><img alt="visual studio code" height="26px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code> -->
 <!--![SQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=sql&logoColor=097CDB)-->
