@@ -54,16 +54,24 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 - **Holy Home English High School Balaghat M.P.**\
 📆 2010 - 2018
 - **Balaghat English Higher Secondary School Balaghat M.P.**\
-📆 2018 - 2002
+📆 2018 - 2020
+- **GH Raisoni College Of Engineering Nagpur Maharastra.**\
+📆 2020 - Moment
+- Graduation Completes On\
+📆 2025
 
 ## Passion
 
 - Coding and Programming\
 📆 2018 - Moment
-- **Self Taught** Android Developer(Intermediate).\
+- **Self Taught** Frontend Android Developer (Intermediate).\
 📆 2018 - Moment
+- **Self Taught** Frontend Web Developer (Experienced).\
+📆 2019 - Moment
 - Competitive Programming\
 📆 2019 - Moment
+- **Open Source Contribution.**\
+📆 2019 - Life Time
 
 </details>
 
