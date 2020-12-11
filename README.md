@@ -2,7 +2,8 @@
 
 I am Sobhan Bera. I consider myself as a fast learner. I am an very experienced in C++, Java, Javascript including Frameworks, Android Development, Web Development, Frontend Development. I am also a competitive programmer. Beside I also enjoy riding cycle and solving rubix cube.
   
-  <a href="https://sobhanbera.github.io/portfolio" style="color:#40404ef;">My Portfolio Website</a>
+  <a href="https://sobhanbera.github.io/portfolio" style="color:#40404ef;">My Portfolio Website - At Github Pages</a>
+  <a href="https://sobhanbera.vercel.app/" style="color:#40404ef;">My Portfolio Website - At Vercel</a>
   
   <img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/open_source_contribution.gif" width="" height="180" />
 
