@@ -69,8 +69,10 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 - Coding and Programming\
 📆 2018 - Life Time
-- **Self Taught** Frontend Android Developer (Intermediate).\
+- **Self Taught** Frontend Android Developer (Android Studio - Intermediate).\
 📆 2018 - Moment
+- **Self Taught** Native App Developer (React Native - Experienced).\
+📆 2019 - Moment
 - **Self Taught** Frontend Web Developer (Experienced).\
 📆 2019 - Moment
 - Competitive Programming\
