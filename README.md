@@ -35,6 +35,7 @@ I am Sobhan Bera. I consider myself as a fast learner. I am an very experienced 
 ![CSS](https://img.shields.io/badge/-CSS-e8e8e8?style=for-the-badge&logo=CSS&logoColor=097CDB)
 ![SASS](https://img.shields.io/badge/-Sass-e8e8e8?style=for-the-badge&logo=Sass&logoColor=F06292)
 ![Less](https://img.shields.io/badge/-Less-e8e8e8?style=for-the-badge&logo=Less&logoColor=097CDB)
+![SQ](https://img.shields.io/badge/-SQL-e8e8e8?style=for-the-badge&logo=sql&logoColor=097CDB)
 ![VIM](https://img.shields.io/badge/-vim-181818?style=for-the-badge&logo=vim&logoColor=097CDB)
 ![VSCODE](https://img.shields.io/badge/-vscode-181818?style=for-the-badge&logo=vscode&logoColor=097CDB)
 ![Atom](https://img.shields.io/badge/-atom-181818?style=for-the-badge&logo=atom&logoColor=808080)
