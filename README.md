@@ -44,7 +44,7 @@ I am Sobhan Bera. I consider myself as a fast learner. I am an very experienced 
 ![Terminal](http://img.shields.io/badge/-terminal-181818?style=for-the-badge&logo=powershell&logoColor=793535)
 ![Linux](https://img.shields.io/badge/-linux-181818?style=for-the-badge&logo=linux&logoColor=ffdf00)
 ![Firebase](https://img.shields.io/badge/-firebase-181818?style=for-the-badge&logo=firebase&logoColor=F5854A)
-![Mongo DB](https://img.shields.io/badge/-mongodb-efefef?style=for-the-badge&logo=mongodb&logoColor=4DB33D)
+![Mongo DB](https://img.shields.io/badge/-mongodb-181818?style=for-the-badge&logo=mongodb&logoColor=4DB33D)
 ![Figma](https://img.shields.io/badge/-figma-181818?style=for-the-badge&logo=figma&logoColor=F06D5D)
 ![Adobe XD](https://img.shields.io/badge/-axd-181818?style=for-the-badge&logo=adobe-xd&logoColor=F27AF4)
 
