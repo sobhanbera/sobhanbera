@@ -166,7 +166,7 @@
 <br/>
 
 <details>
-  <summary><img src="https://github.com/SobhanBera/SobhanBera/blob/master/35b25ac379b8e771bbd3fd956f4d31bb.gif" width="30px">Education And Passion</summary>
+  <summary><img src="https://github.com/SobhanBera/SobhanBera/blob/master/loading.gif" width="25px">Education And Passion</summary>
 
 ## Education
 
