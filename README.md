@@ -1,20 +1,19 @@
 ## Hello, Geeks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-```
+
   I am Sobhan Bera. I consider myself as a fast learner. I am an very experienced in C++,
   Java, Javascript including Frameworks, Android Development, Web Development, Frontend
   Development. I am also a competitive programmer. Beside I also enjoy riding cycle and
   solving rubix cube.
-```
 
   <p>
-  <a href="https://sobhanbera.github.io/portfolio" style="color:#40404ef;">My Portfolio Website - At Github Pages</a>
+    <a href="https://sobhanbera.github.io/portfolio" style="color:#40404ef;">My Portfolio Website - At Github Pages</a>
   </p>
   <p>
-  <a href="https://sobhanbera.vercel.app/" style="color:#40404ef;">My Portfolio Website - At Vercel</a>
+    <a href="https://sobhanbera.vercel.app/" style="color:#40404ef;">My Portfolio Website - At Vercel</a>
   </p>
   <p align="right">
-  <img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/open_source_contribution.gif" width="" height="180" />
+    <img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/open_source_contribution.gif" width="" height="180" />
   </p>
 
 ### What I am Doing Currently?
