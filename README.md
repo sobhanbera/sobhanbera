@@ -12,10 +12,7 @@
   <p>
     <a href="https://sobhanbera.vercel.app/" style="color:#40404ef;">My Portfolio Website - At Vercel</a>
   </p>
-  
-  <p align="right">
-    <img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/open_source_contribution.gif" width="" height="180" />
-  </p>
+  <img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/open_source_contribution.gif" width="" height="180" />
 
 ### What I am Doing Currently?
 
@@ -24,7 +21,9 @@
 
 -   I'm a fast learner. And I am interseted to learn new technologies everytime. I am
     passionate about computers.
+    
     <img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/programming_all_day_gif.gif" width="400px" height="300px">
+    
 -   Currently, I am looking for internships and research projects in the field of Computer
     science and engineering.
 
