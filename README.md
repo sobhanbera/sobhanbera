@@ -166,7 +166,7 @@
 <br/>
 
 <details>
-  <summary>📃 Education And Passion</summary>
+  <summary><img src="https://github.com/SobhanBera/SobhanBera/blob/master/35b25ac379b8e771bbd3fd956f4d31bb.gif" width="30px">Education And Passion</summary>
 
 ## Education
 
@@ -197,7 +197,7 @@
 </details>
 
 <details>
-  <summary>📈 My GitHub Stats<img src="https://github.com/SobhanBera/SobhanBera/blob/master/octocat.gif" width="35px"></summary>
+  <summary><img src="https://github.com/SobhanBera/SobhanBera/blob/master/octocat.gif" width="30px">My GitHub Stats</summary>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=SobhanBera&show_icons=true&count_private=true&theme=radical" width="350">
   </P>
