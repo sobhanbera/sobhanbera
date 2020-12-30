@@ -13,7 +13,6 @@
   <p>
   <a href="https://sobhanbera.vercel.app/" style="color:#40404ef;">My Portfolio Website - At Vercel</a>
   </p>
-  
   <img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/open_source_contribution.gif" width="" height="180" />
 
 ### What I am Doing Currently?
