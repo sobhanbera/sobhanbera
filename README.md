@@ -13,7 +13,7 @@
   <p>
   <a href="https://sobhanbera.vercel.app/" style="color:#40404ef;">My Portfolio Website - At Vercel</a>
   </p>
-  <p>
+  <p align="right">
   <img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/open_source_contribution.gif" width="" height="180" />
   </p>
 
@@ -60,7 +60,7 @@
 
 ### Languages And Tech: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
 
-<p>
+<p align="left">
   <a href="">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-C-283593?style=for-the-badge&logo=C&logoColor=ffffff" />        
   </a>&nbsp;&nbsp;
@@ -114,7 +114,7 @@
 
 ### Tools I Use: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
 
-<p>
+<p align="left">
   <a href="">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-vim-00a839?style=for-the-badge&logo=vim&logoColor=ffffff" />        
   </a>&nbsp;&nbsp;
