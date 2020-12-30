@@ -22,7 +22,7 @@
 -   I'm a fast learner. And I am interseted to learn new technologies everytime. I am
     passionate about computers.
     
-    <img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/programming_all_day_gif.gif" width="400px" height="300px">
+    <img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/programming_all_day_gif.gif" width="360px" height="270px">
     
 -   Currently, I am looking for internships and research projects in the field of Computer
     science and engineering.
