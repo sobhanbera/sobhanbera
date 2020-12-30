@@ -197,6 +197,7 @@
 </details>
 
 <details>
+  </br>
   <summary><img src="https://github.com/SobhanBera/SobhanBera/blob/master/octocat.gif" width="30px">My GitHub Stats</summary>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=SobhanBera&show_icons=true&count_private=true&theme=radical" width="350">
