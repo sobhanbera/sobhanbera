@@ -22,7 +22,7 @@ I am Sobhan Bera. I consider myself as a fast learner. I am an very experienced 
   
 - Currently, I am looking for internships and research projects in the field of Computer science and engineering.
 
-### Languages And Tools: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
+### Languages And Tech: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
 
 ![C](https://img.shields.io/badge/-C-e8e8e8?style=for-the-badge&logo=C&logoColor=283593)
 ![C++](https://img.shields.io/badge/-c++-e8e8e8?style=for-the-badge&logo=C%2B%2B&logoColor=00549D)
@@ -36,6 +36,9 @@ I am Sobhan Bera. I consider myself as a fast learner. I am an very experienced 
 ![SASS](https://img.shields.io/badge/-Sass-e8e8e8?style=for-the-badge&logo=Sass&logoColor=F06292)
 ![Less](https://img.shields.io/badge/-Less-e8e8e8?style=for-the-badge&logo=Less&logoColor=097CDB)
 ![SQ](https://img.shields.io/badge/-SQL-e8e8e8?style=for-the-badge&logo=mysql&logoColor=097CDB)
+
+### Tools I Use: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
+
 ![VIM](https://img.shields.io/badge/-vim-181818?style=for-the-badge&logo=vim&logoColor=097CDB)
 ![VSCODE](https://img.shields.io/badge/-vscode-181818?style=for-the-badge&logo=vscode&logoColor=097CDB)
 ![Atom](https://img.shields.io/badge/-atom-181818?style=for-the-badge&logo=atom&logoColor=808080)
