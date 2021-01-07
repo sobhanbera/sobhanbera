@@ -13,7 +13,8 @@
     <a href="https://sobhanbera.vercel.app/" style="color:#40404ef;">My Portfolio Website - At Vercel</a>
   </p>
 
-<a href="https://www.buymeacoffee.com/sobhanbera" target="_blank"><img src="https://img.shields.io/badge/-Buy%20Me%20A%20Book-0f60b6?style=for-the-badge&logo=learn&logoColor=000000" alt="Buy Me A Book" width="150" ></a>
+<!-- <a href="https://www.buymeacoffee.com/sobhanbera" target="_blank"><img src="https://img.shields.io/badge/-Buy%20Me%20A%20Book-0f60b6?style=for-the-badge&logo=learn&logoColor=000000" alt="Buy Me A Book" width="150" ></a> -->
+<a href="https://www.buymeacoffee.com/sobhanbera" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
   <img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/open_source_contribution.gif" width="" height="180" />
 
 ### What I am Doing Currently?
