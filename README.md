@@ -203,10 +203,18 @@
   </br>
   <summary><img src="https://github.com/SobhanBera/SobhanBera/blob/master/octocat.gif" width="30px">My GitHub Stats</summary>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=SobhanBera&show_icons=true&count_private=true&theme=radical" width="350">
+    <a href="https://github.com/sobhanbera/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=SobhanBera&show_icons=true&count_private=true&theme=radical" width="350">
+    </a>
   </P>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SobhanBera&layout=compact" width="350">
+    <a href="https://github.com/sobhanbera/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SobhanBera&layout=compact&langs_count=8" width="350">
+    </a>
+  </p>
+  
+  <p>
+<!--     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sobhanbera?layout=compact" width="350"> -->
   </p>
 <!--   TROPHY  <img src="https://github-profile-trophy.vercel.app/?username=SobhanBera&theme=gruvbox&column=3&margin-w=15&margin-h=15"/> -->
 </details>
