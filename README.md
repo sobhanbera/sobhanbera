@@ -19,16 +19,13 @@
 
 ### What I am Doing Currently?
 
--   I am very much addicted with open-source contribution, and I will contribute forever.
--   2020 Goals: Contribute ad much as to Open Source projects.
 
--   I'm a fast learner. And I am interseted to learn new technologies everytime. I am
-    passionate about computers.
+-   I am very much addicted with open-source contribution, and I will contribute forever.
+-   2021 Goals: Contribute ad much as to Open Source projects.
+-   I'm a fast learner. And I am interseted to learn new skills everytime.
+-   Currently, working very very hard to get a chance in GSOC21.
     
     <img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/programming_all_day_gif.gif" width="360px" height="270px">
-    
--   Currently, I am looking for internships and research projects in the field of Computer
-    science and engineering.
     
 <!--### Languages And Tech: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
 <!--
