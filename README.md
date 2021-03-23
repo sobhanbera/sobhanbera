@@ -238,7 +238,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-[linkedin]: https://www.linkedin.com/in/sobhan-bera-82a435197/
+[linkedin]: https://www.linkedin.com/in/sobhanbera/
 [twitter]: https://twitter.com/BeraSobhan
 [instagram]: https://www.instagram.com/sobhanbera_/
 [facebook]: https://www.facebook.com/sobhan.b.90/
