@@ -1,7 +1,7 @@
 ## Hello, Geeks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### I am Sobhan Bera
+#### I am Sobhan Bera
 
-  I am very enthusiastic about open-source development. I am very passionate to learn new things quickly. I am a experienced web developer and an android developer. I love contributing to open-source. Besides this I enjoy solving a Rubix and cycling.
+  I am very enthusiastic about open-source development. I am very passionate to learn new things quickly. I am an experienced web developer and an android developer. I love contributing to open-source. Besides this, I enjoy solving a Rubix and cycling.
 
 
   <p>
