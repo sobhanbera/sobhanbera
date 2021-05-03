@@ -19,7 +19,7 @@
 
 
 -   I am very much addicted with open-source contribution, and I will contribute forever.
--   2021 Goals: Contribute ad much as to Open Source projects.
+-   2021 Goals: Contribute as much as to Open Source projects.
 -   I'm a fast learner. And I am interseted to learn new skills everytime.
 -   Currently, working very very hard to get a chance in GSOC21.
     
