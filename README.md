@@ -118,9 +118,9 @@
   <a href="">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-vscode-097CDB?style=for-the-badge&logo=vscode&logoColor=ffffff" />        
   </a>&nbsp;&nbsp;
-  <a href="">
+<!--   <a href="">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-atom-00b478?style=for-the-badge&logo=atom&logoColor=ffffff" />        
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
   <a href="">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-git-F4511E?style=for-the-badge&logo=git&logoColor=ffffff" />        
   </a>&nbsp;&nbsp;
