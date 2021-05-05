@@ -33,6 +33,7 @@
 ![Python](https://img.shields.io/badge/-Python-e8e8e8?style=for-the-badge&logo=Python&logoColor=FFC107)
 ![Javascript](https://img.shields.io/badge/-Javascript-e8e8e8?style=for-the-badge&logo=Javascript&logoColor=fdc500)
 ![React](https://img.shields.io/badge/-React-e8e8e8?style=for-the-badge&logo=React&logoColor=61DBFB)
+![NextJS](https://img.shields.io/badge/-Next-000000?style=for-the-badge&logo=NextJS&logoColor=61DBFB)
 ![React Native](https://img.shields.io/badge/-react%20native-e8e8e8?style=for-the-badge&logo=react&logoColor=61DBFB)
 ![HTML](https://img.shields.io/badge/-HTML-e8e8e8?style=for-the-badge&logo=HTML&logoColor=097CDB)
 ![CSS](https://img.shields.io/badge/-CSS-e8e8e8?style=for-the-badge&logo=CSS&logoColor=097CDB)
