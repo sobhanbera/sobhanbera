@@ -23,53 +23,10 @@
 -   I'm a fast learner. And I am interseted to learn new skills everytime.
     
     <img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/programming_all_day_gif.gif" width="360px" height="270px">
-    
-<!--### Languages And Tech: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
-<!--
-<!--![C](https://img.shields.io/badge/-C-e8e8e8?style=for-the-badge&logo=C&logoColor=283593)
-<!--![C++](https://img.shields.io/badge/-c++-e8e8e8?style=for-the-badge&logo=C%2B%2B&logoColor=00549D)
-<!--![Java](https://img.shields.io/badge/-Java-e8e8e8?style=for-the-badge&logo=Java&logoColor=f89820)
-<!--![Python](https://img.shields.io/badge/-Python-e8e8e8?style=for-the-badge&logo=Python&logoColor=FFC107)
-![Javascript](https://img.shields.io/badge/-Javascript-e8e8e8?style=for-the-badge&logo=Javascript&logoColor=fdc500)
-![React](https://img.shields.io/badge/-React-e8e8e8?style=for-the-badge&logo=React&logoColor=61DBFB)
-![NextJS](https://img.shields.io/badge/-Next-000000?style=for-the-badge&logo=NextJS&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/-react%20native-e8e8e8?style=for-the-badge&logo=react&logoColor=61DBFB)
-![HTML](https://img.shields.io/badge/-HTML-e8e8e8?style=for-the-badge&logo=HTML&logoColor=097CDB)
-![CSS](https://img.shields.io/badge/-CSS-e8e8e8?style=for-the-badge&logo=CSS&logoColor=097CDB)
-![SASS](https://img.shields.io/badge/-Sass-e8e8e8?style=for-the-badge&logo=Sass&logoColor=F06292)
-![Less](https://img.shields.io/badge/-Less-e8e8e8?style=for-the-badge&logo=Less&logoColor=097CDB)
-![SQ](https://img.shields.io/badge/-SQL-e8e8e8?style=for-the-badge&logo=mysql&logoColor=097CDB)
 
-<!--### Tools I Use: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
-<!--
-![VIM](https://img.shields.io/badge/-vim-181818?style=for-the-badge&logo=vim&logoColor=097CDB)
-![VSCODE](https://img.shields.io/badge/-vscode-181818?style=for-the-badge&logo=vscode&logoColor=097CDB)
-![Atom](https://img.shields.io/badge/-atom-181818?style=for-the-badge&logo=atom&logoColor=808080)
-![Git](https://img.shields.io/badge/-git-181818?style=for-the-badge&logo=git&logoColor=F4511E)
-![GitHub](https://img.shields.io/badge/-github-181818?style=for-the-badge&logo=github&logoColor=00BCD4)
-![Terminal](http://img.shields.io/badge/-terminal-181818?style=for-the-badge&logo=powershell&logoColor=793535)
-![Linux](https://img.shields.io/badge/-linux-181818?style=for-the-badge&logo=linux&logoColor=ffdf00)
-![Firebase](https://img.shields.io/badge/-firebase-181818?style=for-the-badge&logo=firebase&logoColor=F5854A)
-![Mongo DB](https://img.shields.io/badge/-mongodb-181818?style=for-the-badge&logo=mongodb&logoColor=4DB33D)
-![Figma](https://img.shields.io/badge/-figma-181818?style=for-the-badge&logo=figma&logoColor=F06D5D)
-![Adobe XD](https://img.shields.io/badge/-axd-181818?style=for-the-badge&logo=adobe-xd&logoColor=F27AF4)
--->
-
-### Languages And Tech: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
+### Languages, Techs And Tools: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
 
 <p align="left">
-<!--   <a href="">
-      <img style="border-radius:25px" src="https://img.shields.io/badge/-C-283593?style=for-the-badge&logo=C&logoColor=ffffff" />        
-  </a>&nbsp;&nbsp;
-  <a href="">
-      <img style="border-radius:25px" src="https://img.shields.io/badge/-c++-00549D?style=for-the-badge&logo=C%2B%2B&logoColor=ffffff" />        
-  </a>&nbsp;&nbsp;
-  <a href="">
-      <img style="border-radius:25px" src="https://img.shields.io/badge/-Java-f89820?style=for-the-badge&logo=Java&logoColor=ffffff" />        
-  </a>&nbsp;&nbsp;
-  <a href="">
-      <img style="border-radius:25px" src="https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=Python&logoColor=ffffff" />        
-  </a>&nbsp;&nbsp; -->
   <a href="">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-Javascript-fdc500?style=for-the-badge&logo=Javascript&logoColor=000000" />        
   </a>&nbsp;&nbsp;
@@ -79,74 +36,19 @@
   <a href="">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-react%20native-61DBFB?style=for-the-badge&logo=react&logoColor=000000" />        
   </a>&nbsp;&nbsp;
-<!--   <a href="">
-      <img style="border-radius:25px" src="https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&logo=HTML&logoColor=ffffff" />        
-  </a>&nbsp;&nbsp;
-  <a href="">
-      <img style="border-radius:25px" src="https://img.shields.io/badge/-CSS-264de4?style=for-the-badge&logo=CSS&logoColor=ffffff" />        
-  </a>&nbsp;&nbsp;
-  <a href="">
-      <img style="border-radius:25px" src="https://img.shields.io/badge/-Sass-F06292?style=for-the-badge&logo=Sass&logoColor=ffffff" />        
-  </a>&nbsp;&nbsp;
-  <a href="">
-      <img style="border-radius:25px" src="https://img.shields.io/badge/-Less-1d365d?style=for-the-badge&logo=Less&logoColor=ffffff" />        
-  </a>&nbsp;&nbsp; -->
   <a href="">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-SQL-F29111?style=for-the-badge&logo=mysql&logoColor=ffffff" />        
   </a>&nbsp;&nbsp;
-</p>
-
-### Tools I Use: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
-
-<p align="left">
   <a href="">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-vim-00a839?style=for-the-badge&logo=vim&logoColor=ffffff" />        
   </a>&nbsp;&nbsp;
   <a href="">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-vscode-097CDB?style=for-the-badge&logo=vscode&logoColor=ffffff" />        
   </a>&nbsp;&nbsp;
-<!--   <a href="">
-      <img style="border-radius:25px" src="https://img.shields.io/badge/-atom-00b478?style=for-the-badge&logo=atom&logoColor=ffffff" />        
-  </a>&nbsp;&nbsp; -->
-<!--   <a href="">
-      <img style="border-radius:25px" src="https://img.shields.io/badge/-git-F4511E?style=for-the-badge&logo=git&logoColor=ffffff" />        
-  </a>&nbsp;&nbsp;
-  <a href="">
-      <img style="border-radius:25px" src="https://img.shields.io/badge/-github-94009b?style=for-the-badge&logo=github&logoColor=ffffff" />        
-  </a>&nbsp;&nbsp;
-  <a href="">
-      <img style="border-radius:25px" src="http://img.shields.io/badge/-terminal-793535?style=for-the-badge&logo=powershell&logoColor=ffffff" />        
-  </a>&nbsp;&nbsp; -->
   <a href="">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-linux-0040ad?style=for-the-badge&logo=linux&logoColor=ffffff" />        
   </a>&nbsp;&nbsp;
-<!--   <a href="">
-      <img style="border-radius:25px" src="https://img.shields.io/badge/-firebase-FFA000?style=for-the-badge&logo=firebase&logoColor=ffffff" />        
-  </a>&nbsp;&nbsp;
-  <a href="">
-      <img style="border-radius:25px" src="https://img.shields.io/badge/-mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=ffffff" />        
-  </a>&nbsp;&nbsp;
-  <a href="">
-      <img style="border-radius:25px" src="https://img.shields.io/badge/-figma-e04a34?style=for-the-badge&logo=figma&logoColor=ffffff" />        
-  </a>&nbsp;&nbsp;
-  <a href="">
-      <img style="border-radius:25px" src="https://img.shields.io/badge/-axd-4c0035?style=for-the-badge&logo=adobe-xd&logoColor=ffffff" />        
-  </a>&nbsp;&nbsp; -->
 </p>
-
-<!-- ![VIM](https://img.shields.io/badge/-vim-00a839?style=for-the-badge&logo=vim&logoColor=ffffff) -->
-<!-- ![VSCODE](https://img.shields.io/badge/-vscode-097CDB?style=for-the-badge&logo=vscode&logoColor=ffffff) -->
-<!-- ![Atom](https://img.shields.io/badge/-atom-00b478?style=for-the-badge&logo=atom&logoColor=ffffff) -->
-<!-- ![Git](https://img.shields.io/badge/-git-F4511E?style=for-the-badge&logo=git&logoColor=ffffff) -->
-<!-- ![GitHub](https://img.shields.io/badge/-github-94009b?style=for-the-badge&logo=github&logoColor=ffffff) -->
-<!-- ![Terminal](http://img.shields.io/badge/-terminal-793535?style=for-the-badge&logo=powershell&logoColor=ffffff) -->
-<!-- ![Linux](https://img.shields.io/badge/-linux-0040ad?style=for-the-badge&logo=linux&logoColor=ffffff) -->
-<!-- ![Firebase](https://img.shields.io/badge/-firebase-FFA000?style=for-the-badge&logo=firebase&logoColor=ffffff) -->
-<!-- ![Mongo DB](https://img.shields.io/badge/-mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=ffffff) -->
-<!-- ![Figma](https://img.shields.io/badge/-figma-e04a34?style=for-the-badge&logo=figma&logoColor=ffffff) -->
-<!-- ![Adobe XD](https://img.shields.io/badge/-axd-4c0035?style=for-the-badge&logo=adobe-xd&logoColor=ffffff) -->
-
-<!-- <code><img alt="visual studio code" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code> -->
 
 <br/>
 
