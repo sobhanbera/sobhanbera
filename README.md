@@ -4,9 +4,9 @@
   I am very enthusiastic about open-source development. I am very passionate to learn new things quickly. I am an experienced web developer and an android developer. I love contributing to open-source. Besides this, I enjoy solving Rubix cube and cycling.
 
 
-  <p>
+<!--   <p>
     <a href="https://sobhanbera.github.io/portfolio" style="color:#40404ef;">My Portfolio Website - At Github Pages</a>
-  </p>
+  </p> -->
   <p>
     <a href="https://sobhanbera.vercel.app/" style="color:#40404ef;">My Portfolio Website - At Vercel</a>
   </p>
@@ -26,10 +26,10 @@
     
 <!--### Languages And Tech: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
 <!--
-![C](https://img.shields.io/badge/-C-e8e8e8?style=for-the-badge&logo=C&logoColor=283593)
-![C++](https://img.shields.io/badge/-c++-e8e8e8?style=for-the-badge&logo=C%2B%2B&logoColor=00549D)
-![Java](https://img.shields.io/badge/-Java-e8e8e8?style=for-the-badge&logo=Java&logoColor=f89820)
-![Python](https://img.shields.io/badge/-Python-e8e8e8?style=for-the-badge&logo=Python&logoColor=FFC107)
+<!--![C](https://img.shields.io/badge/-C-e8e8e8?style=for-the-badge&logo=C&logoColor=283593)
+<!--![C++](https://img.shields.io/badge/-c++-e8e8e8?style=for-the-badge&logo=C%2B%2B&logoColor=00549D)
+<!--![Java](https://img.shields.io/badge/-Java-e8e8e8?style=for-the-badge&logo=Java&logoColor=f89820)
+<!--![Python](https://img.shields.io/badge/-Python-e8e8e8?style=for-the-badge&logo=Python&logoColor=FFC107)
 ![Javascript](https://img.shields.io/badge/-Javascript-e8e8e8?style=for-the-badge&logo=Javascript&logoColor=fdc500)
 ![React](https://img.shields.io/badge/-React-e8e8e8?style=for-the-badge&logo=React&logoColor=61DBFB)
 ![NextJS](https://img.shields.io/badge/-Next-000000?style=for-the-badge&logo=NextJS&logoColor=61DBFB)
@@ -58,7 +58,7 @@
 ### Languages And Tech: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
 
 <p align="left">
-  <a href="">
+<!--   <a href="">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-C-283593?style=for-the-badge&logo=C&logoColor=ffffff" />        
   </a>&nbsp;&nbsp;
   <a href="">
@@ -69,7 +69,7 @@
   </a>&nbsp;&nbsp;
   <a href="">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=Python&logoColor=ffffff" />        
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
   <a href="">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-Javascript-fdc500?style=for-the-badge&logo=Javascript&logoColor=000000" />        
   </a>&nbsp;&nbsp;
@@ -79,7 +79,7 @@
   <a href="">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-react%20native-61DBFB?style=for-the-badge&logo=react&logoColor=000000" />        
   </a>&nbsp;&nbsp;
-  <a href="">
+<!--   <a href="">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&logo=HTML&logoColor=ffffff" />        
   </a>&nbsp;&nbsp;
   <a href="">
@@ -90,24 +90,11 @@
   </a>&nbsp;&nbsp;
   <a href="">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-Less-1d365d?style=for-the-badge&logo=Less&logoColor=ffffff" />        
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
   <a href="">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-SQL-F29111?style=for-the-badge&logo=mysql&logoColor=ffffff" />        
   </a>&nbsp;&nbsp;
 </p>
-
-<!-- ![C](https://img.shields.io/badge/-C-283593?style=for-the-badge&logo=C&logoColor=ffffff) -->
-<!-- ![C++](https://img.shields.io/badge/-c++-00549D?style=for-the-badge&logo=C%2B%2B&logoColor=ffffff) -->
-<!-- ![Java](https://img.shields.io/badge/-Java-f89820?style=for-the-badge&logo=Java&logoColor=ffffff) -->
-<!-- ![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=Python&logoColor=ffffff) -->
-<!-- ![Javascript](https://img.shields.io/badge/-Javascript-fdc500?style=for-the-badge&logo=Javascript&logoColor=000000) -->
-<!-- ![React](https://img.shields.io/badge/-react-61DBFB?style=for-the-badge&logo=react&logoColor=000000) -->
-<!-- ![React Native](https://img.shields.io/badge/-react%20native-61DBFB?style=for-the-badge&logo=react&logoColor=000000) -->
-<!-- ![HTML](https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&logo=HTML&logoColor=ffffff) -->
-<!-- ![CSS](https://img.shields.io/badge/-CSS-264de4?style=for-the-badge&logo=CSS&logoColor=ffffff) -->
-<!-- ![SASS](https://img.shields.io/badge/-Sass-F06292?style=for-the-badge&logo=Sass&logoColor=ffffff) -->
-<!-- ![Less](https://img.shields.io/badge/-Less-1d365d?style=for-the-badge&logo=Less&logoColor=ffffff) -->
-<!-- ![SQ](https://img.shields.io/badge/-SQL-F29111?style=for-the-badge&logo=mysql&logoColor=ffffff) -->
 
 ### Tools I Use: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
 
@@ -121,7 +108,7 @@
 <!--   <a href="">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-atom-00b478?style=for-the-badge&logo=atom&logoColor=ffffff" />        
   </a>&nbsp;&nbsp; -->
-  <a href="">
+<!--   <a href="">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-git-F4511E?style=for-the-badge&logo=git&logoColor=ffffff" />        
   </a>&nbsp;&nbsp;
   <a href="">
@@ -129,11 +116,11 @@
   </a>&nbsp;&nbsp;
   <a href="">
       <img style="border-radius:25px" src="http://img.shields.io/badge/-terminal-793535?style=for-the-badge&logo=powershell&logoColor=ffffff" />        
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
   <a href="">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-linux-0040ad?style=for-the-badge&logo=linux&logoColor=ffffff" />        
   </a>&nbsp;&nbsp;
-  <a href="">
+<!--   <a href="">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-firebase-FFA000?style=for-the-badge&logo=firebase&logoColor=ffffff" />        
   </a>&nbsp;&nbsp;
   <a href="">
@@ -144,7 +131,7 @@
   </a>&nbsp;&nbsp;
   <a href="">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-axd-4c0035?style=for-the-badge&logo=adobe-xd&logoColor=ffffff" />        
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
 </p>
 
 <!-- ![VIM](https://img.shields.io/badge/-vim-00a839?style=for-the-badge&logo=vim&logoColor=ffffff) -->
