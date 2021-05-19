@@ -53,7 +53,8 @@
 <br/>
 
 <details>
-  <summary><img src="https://github.com/SobhanBera/SobhanBera/blob/master/loading.gif" width="25px">Education And Passion</summary>
+  <summary>Education And Passion</summary>
+<!--     <img src="https://github.com/SobhanBera/SobhanBera/blob/master/loading.gif" width="25px"> -->
 
 ## Education
 
@@ -85,7 +86,8 @@
 
 <details>
   </br>
-  <summary><img src="https://github.com/SobhanBera/SobhanBera/blob/master/octocat.gif" width="30px">My GitHub Stats</summary>
+  <summary>My GitHub Stats</summary>
+<!--     <img src="https://github.com/SobhanBera/SobhanBera/blob/master/octocat.gif" width="30px"> -->
   <p>
     <a href="https://github.com/sobhanbera/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=SobhanBera&show_icons=true&count_private=true&theme=radical" width="350">
