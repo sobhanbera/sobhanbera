@@ -3,7 +3,6 @@
 
   I am very enthusiastic about open-source development. I am very passionate to learn new things quickly. I am an experienced web developer and an android developer. I love contributing to open-source. Besides this, I enjoy solving Rubix cube and cycling.
 
-
 <!--   <p>
     <a href="https://sobhanbera.github.io/portfolio" style="color:#40404ef;">My Portfolio Website - At Github Pages</a>
   </p> -->
@@ -90,12 +89,12 @@
   <summary>My GitHub Stats</summary>
 <!--     <img src="https://github.com/SobhanBera/SobhanBera/blob/master/octocat.gif" width="30px"> -->
   <p>
-    <a href="https://github.com/sobhanbera/github-readme-stats">
+    <a href="https://github.com/sobhanbera/sobyte">
       <img src="https://github-readme-stats.vercel.app/api?username=SobhanBera&show_icons=true&count_private=true&theme=radical" width="350">
     </a>
   </P>
   <p>
-    <a href="https://github.com/sobhanbera/github-readme-stats">
+    <a href="https://github.com/sobhanbera/sobyte">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SobhanBera&layout=compact&langs_count=8" width="350">
     </a>
   </p>
