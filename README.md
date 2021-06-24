@@ -89,12 +89,12 @@
   <summary>My GitHub Stats</summary>
 <!--     <img src="https://github.com/SobhanBera/SobhanBera/blob/master/octocat.gif" width="30px"> -->
   <p>
-    <a href="https://github.com/sobhanbera/sobyte">
+    <a href="https://github.com/sobhanbera">
       <img src="https://github-readme-stats.vercel.app/api?username=SobhanBera&show_icons=true&count_private=true&theme=radical" width="350">
     </a>
   </P>
   <p>
-    <a href="https://github.com/sobhanbera/sobyte">
+    <a href="https://github.com/sobhanbera">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SobhanBera&layout=compact&langs_count=8" width="350">
     </a>
   </p>
