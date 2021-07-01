@@ -27,7 +27,7 @@
 ### Current Languages, Techs & Tools: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
 
 <p align="left">
-  <a href="">
+  <a href="https://www.javascript.com">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-Javascript-fdc500?style=for-the-badge&logo=Javascript&logoColor=000000" />        
   </a>&nbsp;&nbsp;
   <a href="https://reactjs.org">
@@ -45,7 +45,7 @@
   <a href="https://code.visualstudio.com/#alt-downloads">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-vscode-097CDB?style=for-the-badge&logo=vscode&logoColor=ffffff" />        
   </a>&nbsp;&nbsp;
-  <a href="https://www.arcolinux.info/choose-your-project/">
+  <a href="https://www.arcolinux.info/choose-your-project">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-linux-0040ad?style=for-the-badge&logo=linux&logoColor=ffffff" />        
   </a>&nbsp;&nbsp;
 </p>
