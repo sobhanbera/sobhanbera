@@ -30,22 +30,22 @@
   <a href="">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-Javascript-fdc500?style=for-the-badge&logo=Javascript&logoColor=000000" />        
   </a>&nbsp;&nbsp;
-  <a href="">
+  <a href="https://reactjs.org">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-react-61DBFB?style=for-the-badge&logo=react&logoColor=000000" />        
   </a>&nbsp;&nbsp;
-  <a href="">
+  <a href="https://reactnative.dev">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-react%20native-61DBFB?style=for-the-badge&logo=react&logoColor=000000" />        
   </a>&nbsp;&nbsp;
-  <a href="">
+  <a href="https://www.mysql.com">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-SQL-F29111?style=for-the-badge&logo=mysql&logoColor=ffffff" />        
   </a>&nbsp;&nbsp;
-  <a href="">
+  <a href="https://github.com/neovim/neovim/releases/tag/v0.4.4">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-vim-00a839?style=for-the-badge&logo=vim&logoColor=ffffff" />        
   </a>&nbsp;&nbsp;
-  <a href="">
+  <a href="https://code.visualstudio.com/#alt-downloads">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-vscode-097CDB?style=for-the-badge&logo=vscode&logoColor=ffffff" />        
   </a>&nbsp;&nbsp;
-  <a href="">
+  <a href="https://www.arcolinux.info/choose-your-project/">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-linux-0040ad?style=for-the-badge&logo=linux&logoColor=ffffff" />        
   </a>&nbsp;&nbsp;
 </p>
