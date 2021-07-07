@@ -90,12 +90,17 @@
 <!--     <img src="https://github.com/SobhanBera/SobhanBera/blob/master/octocat.gif" width="30px"> -->
   <p>
     <a href="https://github.com/sobhanbera">
-      <img src="https://github-readme-stats.vercel.app/api?username=SobhanBera&show_icons=true&count_private=true&theme=radical" width="350">
+      <img src="https://github-readme-stats.vercel.app/api?username=sobhanbera&show_icons=true&count_private=true&theme=outrun" width="350">
     </a>
   </P>
   <p>
     <a href="https://github.com/sobhanbera">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SobhanBera&layout=compact&langs_count=8" width="350">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhanbera&layout=compact&langs_count=10&theme=outrun" width="350">
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/sobhanbera">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sobhanbera&layout=compact&theme=outrun" width="350">
     </a>
   </p>
   
