@@ -90,17 +90,17 @@
 <!--     <img src="https://github.com/SobhanBera/SobhanBera/blob/master/octocat.gif" width="30px"> -->
   <p>
     <a href="https://github.com/sobhanbera">
-      <img src="https://github-readme-stats.vercel.app/api?username=sobhanbera&show_icons=true&count_private=true&theme=dark" width="350">
+      <img src="https://github-readme-stats.vercel.app/api?username=sobhanbera&show_icons=true&count_private=true&theme=darkdark" width="350">
     </a>
   </P>
   <p>
     <a href="https://github.com/sobhanbera">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhanbera&layout=compact&langs_count=10&theme=dark" width="350">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhanbera&layout=compact&langs_count=10&theme=dardarkk" width="350">
     </a>
   </p>
   <p>
     <a href="https://github.com/sobhanbera">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sobhanbera&layout=compact&theme=dark" width="350">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sobhanbera&layout=compact&theme=dardarkk" width="350">
     </a>
   </p>
   
@@ -142,6 +142,3 @@
 [android]: https://developer.android.com/studio/
 [vsc]: https://code.visualstudio.com/
 [git]: https://git-scm.com/downloads
-
-// this line will change when any updates are going to happen
-// since the images are all static in readmes
