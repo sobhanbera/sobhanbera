@@ -142,3 +142,6 @@
 [android]: https://developer.android.com/studio/
 [vsc]: https://code.visualstudio.com/
 [git]: https://git-scm.com/downloads
+
+// this line will change when any updates are going to happen
+// since the images are all static in readmes
