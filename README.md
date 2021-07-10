@@ -31,7 +31,7 @@
       <img style="border-radius:25px" src="https://img.shields.io/badge/-Javascript-fdc500?style=for-the-badge&logo=Javascript&logoColor=000000" />        
   </a>&nbsp;&nbsp;
   <a href="https://reactjs.org">
-      <img style="border-radius:25px" src="https://img.shields.io/badge/-react-61DBFB?style=for-the-badge&logo=react&logoColor=000000" />        
+      <img style="border-radius:25px" src="https://img.shields.io/badge/-next-E7E7E7?style=for-the-badge&logo=react&logoColor=000000" />        
   </a>&nbsp;&nbsp;
   <a href="https://reactnative.dev">
       <img style="border-radius:25px" src="https://img.shields.io/badge/-react%20native-61DBFB?style=for-the-badge&logo=react&logoColor=000000" />        
