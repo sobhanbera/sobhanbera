@@ -112,7 +112,7 @@
 
 </br>
 <p align='center'>
-  <a href="https://www.linkedin.com/in/sobhan-bera-82a435197/">
+  <a href="https://www.linkedin.com/in/sobhanbera/">
     <img style="border-radius:25px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/sobhanbera_/">
