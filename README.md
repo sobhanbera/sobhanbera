@@ -11,9 +11,14 @@ I am very enthusiastic about open-source development. I am very passionate to le
     <a href="https://sobhanbera.vercel.app/" style="color:#40404ef;">Portfolio Website</a>
   </p>
 
-  <a href="https://github.com/sobhanbera">
+<!--   <a href="https://github.com/sobhanbera">
     <img src="https://visitor-badge.glitch.me/badge?page_id=sobhanbera.sobhanbera" alt="visitor badge" height="25px" />
+  </a> -->
+  
+  <a href="https://github.com/sobhanbera">
+    <img src="https://komarev.com/ghpvc/?username=sobhanbera&color=0F60B6&&style=flat-square&label=Visitors" alt="visitor badge" height="28px" />
   </a>
+
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=sobhanbera.socbyte) -->
 
 <!-- <a href="https://www.buymeacoffee.com/sobhanbera" target="_blank"><img src="https://img.shields.io/badge/-Buy%20Me%20A%20Book-0f60b6?style=for-the-badge&logo=learn&logoColor=000000" alt="Buy Me A Book" width="150" ></a> -->
