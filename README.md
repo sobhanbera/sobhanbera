@@ -2,28 +2,23 @@
 
 #### I am Sobhan Bera
 
-I am very enthusiastic about open-source development. I am very passionate to learn new things quickly. I am an experienced web developer and an android developer. I love contributing to open-source. Besides this, I enjoy solving Rubix cube and cycling.
+I am very enthusiastic about open-source development. I am very passionate to learn new things quickly. I am an experienced web developer and an android developer. I love contributing to open-source. Besides this, I enjoy solving Rubix cube and cycling. My Portfolio is <a href="https://sobhanbera.vercel.app/" style="color:#40404ef; font-size: 18px !important;">here</a>.
 
 <!--   <p>
     <a href="https://sobhanbera.github.io/portfolio" style="color:#40404ef;">My Portfolio Website - At Github Pages</a>
   </p> -->
-  <p>
+<!--   <p>
     <a href="https://sobhanbera.vercel.app/" style="color:#40404ef;">Portfolio Website</a>
-  </p>
+  </p> -->
 
 <!--   <a href="https://github.com/sobhanbera">
     <img src="https://visitor-badge.glitch.me/badge?page_id=sobhanbera.sobhanbera" alt="visitor badge" height="25px" />
   </a> -->
-  
-  <a href="https://github.com/sobhanbera">
-    <img src="https://komarev.com/ghpvc/?username=sobhanbera&color=0040ad&&style=flat-square&label=Visitors" alt="visitor badge" height="28px" />
-  </a>
-
+ 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=sobhanbera.socbyte) -->
 
 <!-- <a href="https://www.buymeacoffee.com/sobhanbera" target="_blank"><img src="https://img.shields.io/badge/-Buy%20Me%20A%20Book-0f60b6?style=for-the-badge&logo=learn&logoColor=000000" alt="Buy Me A Book" width="150" ></a> -->
 
-<a href="https://www.buymeacoffee.com/sobhanbera" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
 <img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/open_source_contribution.gif" width="" height="180" />
 <img align="right" src="https://raw.githubusercontent.com/sobhanbera/sobhanbera/master/0%2B0%3D%E2%88%9E_sobhanbera.png" width="180" />
 
@@ -128,6 +123,12 @@ I am very enthusiastic about open-source development. I am very passionate to le
   </p>
 <!--   TROPHY  <img src="https://github-profile-trophy.vercel.app/?username=SobhanBera&theme=gruvbox&column=3&margin-w=15&margin-h=15"/> -->
 </details>
+
+<a href="https://github.com/sobhanbera">
+  <img src="https://komarev.com/ghpvc/?username=sobhanbera&color=0040ad&&style=flat-square&label=Visitors" alt="visitor badge" height="28px" />
+</a>
+
+<a href="https://www.buymeacoffee.com/sobhanbera" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
 
 </br>
 <p align='center'>
