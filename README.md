@@ -16,7 +16,7 @@ I am very enthusiastic about open-source development. I am very passionate to le
   </a> -->
   
   <a href="https://github.com/sobhanbera">
-    <img src="https://komarev.com/ghpvc/?username=sobhanbera&color=0F60B6&&style=flat-square&label=Visitors" alt="visitor badge" height="28px" />
+    <img src="https://komarev.com/ghpvc/?username=sobhanbera&color=0040ad&&style=flat-square&label=Visitors" alt="visitor badge" height="28px" />
   </a>
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=sobhanbera.socbyte) -->
