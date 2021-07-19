@@ -101,14 +101,22 @@ I am very enthusiastic about open-source development. I am very passionate to le
 <!--     <img src="https://github.com/SobhanBera/SobhanBera/blob/master/octocat.gif" width="30px"> -->
   <p>
     <a href="https://github.com/sobhanbera">
-      <img src="https://github-readme-stats.vercel.app/api?username=sobhanbera&show_icons=true&count_private=true&theme=dark" width="350">
-    </a>
-  </P>
-  <p>
-    <a href="https://github.com/sobhanbera">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhanbera&layout=compact&langs_count=10&theme=dark" width="350">
+      <img src="https://activity-graph.herokuapp.com/graph?username=sobhanbera&theme=xcode&custom_title=My%20Contribution%20Graph&hide_border=true" width="400">
     </a>
   </p>
+  
+  <p>
+    <a href="https://github.com/sobhanbera">
+      <img src="https://github-readme-stats.vercel.app/api?username=sobhanbera&show_icons=true&count_private=true&theme=dark" width="400">
+    </a>
+  </P>
+  
+  <p>
+    <a href="https://github.com/sobhanbera">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhanbera&layout=compact&langs_count=10&theme=dark" width="400">
+    </a>
+  </p>
+  
 <!--   <p>
     <a href="https://github.com/sobhanbera">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sobhanbera&layout=compact&theme=dark" width="350">
