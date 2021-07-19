@@ -101,7 +101,7 @@ I am very enthusiastic about open-source development. I am very passionate to le
 <!--     <img src="https://github.com/SobhanBera/SobhanBera/blob/master/octocat.gif" width="30px"> -->
   <p>
     <a href="https://github.com/sobhanbera">
-      <img src="https://activity-graph.herokuapp.com/graph?username=sobhanbera&theme=xcode&custom_title=My%20Contribution%20Graph&hide_border=true" width="400">
+      <img src="https://activity-graph.herokuapp.com/graph?username=sobhanbera&theme=xcode&custom_title=Activity%20Graph&hide_border=true" width="400">
     </a>
   </p>
   
