@@ -24,7 +24,7 @@ I am very enthusiastic about open-source development. I am very passionate to le
 
 ### What I am Doing Currently?
 
--   I am very much addicted with open-source contribution, and I will contribute forever.
+-   Learning the Art of PATIENCE...
 -   2021 Goals: Contribute as much as to Open Source projects.
 -   I'm a fast learner. And I am interseted to learn new skills everytime.
 
