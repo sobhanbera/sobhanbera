@@ -24,6 +24,7 @@ I am very enthusiastic about open-source development. I am very passionate to le
 
 ### What I am Doing Currently?
 
+-   Working on an android application which would be publish on September at Google PLay Store.
 -   Learning the Art of PATIENCE...
 -   2021 Goals: Contribute as much as to Open Source projects.
 -   I'm a fast learner. And I am interseted to learn new skills everytime.
