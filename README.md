@@ -2,7 +2,12 @@
 
 #### I am Sobhan Bera
 
-I am very enthusiastic about open-source development. I am very passionate to learn new things quickly. I am an experienced web developer and an android developer. I love contributing to open-source. Besides this, I enjoy solving Rubix cube and cycling. My Portfolio is <a href="https://sobhanbera.vercel.app/" style="color:#40404ef; font-size: 18px !important;">here</a>.
+I am very enthusiastic about open-source development. I am very passionate to learn new things quickly. I am an experienced web developer and an android 
+developer. I love contributing to open-source. Besides this, I enjoy solving Rubix cube and cycling. My Portfolio is <a href="https://sobhanbera.vercel.app/">
+https://sobhanbera.github.io</a>.
+
+<!-- **https://sobhanbera.github.io** -->
+
 
 <!--   <p>
     <a href="https://sobhanbera.github.io/portfolio" style="color:#40404ef;">My Portfolio Website - At Github Pages</a>
