@@ -19,8 +19,8 @@ I am very enthusiastic about open-source development. I am very passionate to le
 
 <!-- <a href="https://www.buymeacoffee.com/sobhanbera" target="_blank"><img src="https://img.shields.io/badge/-Buy%20Me%20A%20Book-0f60b6?style=for-the-badge&logo=learn&logoColor=000000" alt="Buy Me A Book" width="150" ></a> -->
 
-<img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/open_source_contribution.gif" width="" height="180" />
-<img align="right" src="https://raw.githubusercontent.com/sobhanbera/sobhanbera/master/0%2B0%3D%E2%88%9E_sobhanbera.png" width="180" />
+<!-- <img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/open_source_contribution.gif" width="" height="180" /> -->
+<!-- <img align="right" src="https://raw.githubusercontent.com/sobhanbera/sobhanbera/master/0%2B0%3D%E2%88%9E_sobhanbera.png" width="180" /> -->
 
 ### What I am Doing Currently?
 
