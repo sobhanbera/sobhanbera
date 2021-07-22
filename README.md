@@ -115,7 +115,7 @@ I am very enthusiastic about open-source development. I am very passionate to le
   
 <!--   <p>
     <a href="https://github.com/sobhanbera">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sobhanbera&layout=compact&theme=dark" width="350">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sobhanbera&layout=compact&langs_count=10&theme=dark" width="350">
     </a>
   </p> -->
   
@@ -130,6 +130,11 @@ I am very enthusiastic about open-source development. I am very passionate to le
 </a>
 
 <a href="https://www.buymeacoffee.com/sobhanbera" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
+
+<p>
+    <a href="https://indiafightscorona.giveindia.org">
+    <img src="https://d2wvdrxmr8p0wf.cloudfront.net/static/giveindia.svg" alt="Give india logo" width="180" />
+</a>
 
 </br>
 <p align='center'>
