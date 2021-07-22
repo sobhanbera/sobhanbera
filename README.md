@@ -113,11 +113,11 @@ I am very enthusiastic about open-source development. I am very passionate to le
     </a>
   </p>
   
-<!--   <p>
+  <p>
     <a href="https://github.com/sobhanbera">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sobhanbera&layout=compact&langs_count=10&theme=dark" width="350">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sobhanbera&layout=compact&theme=dark" width="350">
     </a>
-  </p> -->
+  </p>
   
   <p>
 <!--     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sobhanbera?layout=compact" width="350"> -->
