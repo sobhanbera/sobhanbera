@@ -103,6 +103,13 @@ https://sobhanbera.github.io</a>.
 ## Stats:-
 
 <!--     <img src="https://github.com/SobhanBera/SobhanBera/blob/master/octocat.gif" width="30px"> -->
+
+  <p>
+    <a href="https://github.com/sobhanbera">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sobhanbera&layout=compact&theme=dark" width="400">
+    </a>
+  </p>
+  
   <p>
     <a href="https://github.com/sobhanbera">
       <img src="https://activity-graph.herokuapp.com/graph?username=sobhanbera&theme=xcode&custom_title=Activity%20Graph&hide_border=true" width="400">
@@ -119,14 +126,7 @@ https://sobhanbera.github.io</a>.
     <a href="https://github.com/sobhanbera">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhanbera&layout=compact&langs_count=10&theme=dark" width="400">
     </a>
-  </p>
-  
-  <p>
-    <a href="https://github.com/sobhanbera">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sobhanbera&layout=compact&theme=dark" width="400">
-    </a>
-  </p>
-  
+  </p>  
   <p>
 <!--     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sobhanbera?layout=compact" width="350"> -->
   </p>
