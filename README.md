@@ -96,9 +96,12 @@ https://sobhanbera.github.io</a>.
 
 </details>
 
-<details>
+<!-- <details> -->
   </br>
-  <summary>My GitHub Stats</summary>
+<!--   <summary>My GitHub Stats</summary> -->
+
+## Stats:-
+
 <!--     <img src="https://github.com/SobhanBera/SobhanBera/blob/master/octocat.gif" width="30px"> -->
   <p>
     <a href="https://github.com/sobhanbera">
@@ -128,7 +131,7 @@ https://sobhanbera.github.io</a>.
 <!--     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sobhanbera?layout=compact" width="350"> -->
   </p>
 <!--   TROPHY  <img src="https://github-profile-trophy.vercel.app/?username=SobhanBera&theme=gruvbox&column=3&margin-w=15&margin-h=15"/> -->
-</details>
+<!-- </details> -->
 
 <a href="https://github.com/sobhanbera">
   <img src="https://komarev.com/ghpvc/?username=sobhanbera&color=0040ad&&style=flat-square&label=Visitors" alt="visitor badge" height="28px" />
