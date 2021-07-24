@@ -29,7 +29,7 @@ https://sobhanbera.github.io</a>.
 
 ### What I am Doing Currently?
 
--   Working on an android application which would be publish on September at Google PLay Store.
+-   Working on an android application which would be publish on September at Google Play Store.
 -   Learning the Art of PATIENCE...
 -   2021 Goals: Contribute as much as to Open Source projects.
 -   I'm a fast learner. And I am interseted to learn new skills everytime.
