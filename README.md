@@ -28,13 +28,17 @@ https://sobhanbera.github.io</a>.
 <!-- <img align="right" src="https://raw.githubusercontent.com/sobhanbera/sobhanbera/master/0%2B0%3D%E2%88%9E_sobhanbera.png" width="180" /> -->
 
 ### What I am Doing Currently?
+```diff
+---
++++ Working on an android application which would be publish on September at Google Play Store.
+@@ Learning the Art of PATIENCE... @@
+@@ 2021 Goals: Contribute as much as to Open Source projects. @@
++++ Learning new things everytime.
+---
+```
 
--   Working on an android application which would be publish on September at Google Play Store.
--   Learning the Art of PATIENCE...
--   2021 Goals: Contribute as much as to Open Source projects.
--   I'm a fast learner. And I am interseted to learn new skills everytime.
 
-    <img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/programming_all_day_gif.gif" width="360px" height="270px">
+<img align="right" src="https://github.com/SobhanBera/SobhanBera/blob/master/programming_all_day_gif.gif" width="360px" height="270px">
 
 ### Current Languages, Techs & Tools: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
 
