@@ -66,7 +66,11 @@ https://sobhanbera.github.io</a>.
     </a>&nbsp;&nbsp;
 </p>
 
-<br/>
+</br>
+<p>
+    <a href="https://indiafightscorona.giveindia.org">
+    <img src="https://d2wvdrxmr8p0wf.cloudfront.net/static/giveindia.svg" alt="Give india logo" width="180" />
+</a>
 
 <details>
     <summary>Education And Passion</summary>
@@ -142,11 +146,6 @@ https://sobhanbera.github.io</a>.
 </a>
 
 <a href="https://www.buymeacoffee.com/sobhanbera" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
-
-<p>
-    <a href="https://indiafightscorona.giveindia.org">
-    <img src="https://d2wvdrxmr8p0wf.cloudfront.net/static/giveindia.svg" alt="Give india logo" width="180" />
-</a>
 
 </br>
 <p align='center'>
