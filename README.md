@@ -132,6 +132,12 @@ https://sobhanbera.github.io</a>.
   
   <p>
     <a href="https://github.com/sobhanbera">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sobhanbera&theme=dark" width="400">
+    </a>
+  </P>
+  
+  <p>
+    <a href="https://github.com/sobhanbera">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhanbera&layout=compact&langs_count=10&theme=dark" width="400">
     </a>
   </p>  
