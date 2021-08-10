@@ -72,11 +72,13 @@ https://sobhanbera.github.io</a>.
     <img src="https://d2wvdrxmr8p0wf.cloudfront.net/static/giveindia.svg" alt="Give india logo" width="180" />
 </a>
 
+## More Details:-
+    
 <details>
     <summary>Education And Passion</summary>
 <!--     <img src="https://github.com/SobhanBera/SobhanBera/blob/master/loading.gif" width="25px"> -->
 
-## Education
+### Education
 
 -   **Holy Home English High School Balaghat M.P.**\
     📆 2010 - 2018
@@ -87,7 +89,7 @@ https://sobhanbera.github.io</a>.
 -   Graduation Completes On\
     📆 2025
 
-## Passion
+### Passion
 
 -   Coding and Programming\
     📆 2018 - Life Time
@@ -106,11 +108,9 @@ https://sobhanbera.github.io</a>.
 
 <!-- <details> -->
   </br>
-<!--   <summary>My GitHub Stats</summary> -->
 
-## Stats:-
-
-<!--     <img src="https://github.com/SobhanBera/SobhanBera/blob/master/octocat.gif" width="30px"> -->
+<details>
+  <summary>Programming Statistics</summary>
 
   <p>
     <a href="https://github.com/sobhanbera">
@@ -146,6 +146,7 @@ https://sobhanbera.github.io</a>.
   </p>
 <!--   TROPHY  <img src="https://github-profile-trophy.vercel.app/?username=SobhanBera&theme=gruvbox&column=3&margin-w=15&margin-h=15"/> -->
 <!-- </details> -->
+</details>
 
 <a href="https://github.com/sobhanbera">
   <img src="https://komarev.com/ghpvc/?username=sobhanbera&color=0040ad&&style=flat-square&label=Visitors" alt="visitor badge" height="28px" />
