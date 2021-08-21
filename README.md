@@ -1,9 +1,7 @@
 ## Hello, Geeks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 #### I am Sobhan Bera
-
-I am very enthusiastic about open-source development. I am very passionate to learn new things quickly. I am an experienced web developer and an android 
-developer. I love contributing to open-source. Besides this, I enjoy solving Rubix cube and cycling. My Portfolio is <a href="https://sobhanbera.vercel.app/">
+Very enthusiastic about open-source development. I am very passionate to learn new things quickly. I am an experienced web developer and an android developer. I love contributing to open-source. Besides this, I enjoy solving the Rubik cube and cycling. My Portfolio is <a href="https://sobhanbera.vercel.app/">
 https://sobhanbera.github.io</a>.
 
 <!-- **https://sobhanbera.github.io** -->
