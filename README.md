@@ -35,7 +35,8 @@ https://sobhanbera.github.io</a>.
 ---
 ```
 
-<img align="right" src="https://github.com/sobhanbera/sobhanbera/blob/master/coding_transparent.gif" width="360px" height="270px">
+<!-- height="270px" -->
+<img align="right" src="https://github.com/sobhanbera/sobhanbera/blob/master/coding_transparent.gif" width="360px">
 
 ### Current Languages, Techs & Tools: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
 
