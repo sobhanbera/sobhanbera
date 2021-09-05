@@ -104,9 +104,6 @@ https://sobhanbera.github.io</a>.
 
 </details>
 
-<!-- <details> -->
-  </br>
-
 <details>
   <summary>Programming Statistics</summary>
 
