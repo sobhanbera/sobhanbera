@@ -144,7 +144,7 @@ https://sobhanbera.github.io</a>.
 </details>
 
 <a href="https://github.com/sobhanbera">
-  <img src="https://komarev.com/ghpvc/?username=sobhanbera&color=0040ad&&style=flat-square&label=Visitors" alt="visitor badge" height="28px" />
+  <img src="https://profile-counter.glitch.me/sobhanbera/count.svg" alt="visitor badge" height="28px" />
 </a>
 
 <a href="https://www.buymeacoffee.com/sobhanbera" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
