@@ -143,6 +143,8 @@ https://sobhanbera.github.io</a>.
 <!-- </details> -->
 </details>
 
+##### Total Visitors Count:
+
 <a href="https://github.com/sobhanbera">
   <img src="https://profile-counter.glitch.me/sobhanbera/count.svg" alt="visitor badge" height="28px" />
 </a>
