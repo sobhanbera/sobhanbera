@@ -59,7 +59,7 @@ https://sobhanbera.github.io</a>.
     <a href="https://www.mysql.com">
         <img style="border-radius:25px" src="https://img.shields.io/badge/-SQL-F29111?style=for-the-badge&logo=mysql&logoColor=ffffff" />        
     </a>&nbsp;&nbsp;
-    <a href="https://github.com/neovim/neovim/releases/tag/v0.4.4">
+    <a href="https://github.com/neovim/neovim/releases/tag/v0.5.1">
         <img style="border-radius:25px" src="https://img.shields.io/badge/-vim-00a839?style=for-the-badge&logo=vim&logoColor=ffffff" />        
     </a>&nbsp;&nbsp;
     <a href="https://code.visualstudio.com/#alt-downloads">
