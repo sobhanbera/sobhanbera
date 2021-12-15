@@ -1,4 +1,4 @@
-<!-- any theme image will come here -->
+ddd<!-- any theme image will come here -->
 <!-- this might be any festival or any event -->
 <!-- <p align="center">
     <img src="https://github.com/sobhanbera/sobhanbera/blob/master/theme.png?raw=true" height="600" />
@@ -149,11 +149,11 @@ https://sobhanbera.github.io</a>.
 <!-- </details> -->
 </details>
 
-##### Total Visitors Count:
+<!-- ##### Total Visitors Count: -->
 
-<a href="https://github.com/sobhanbera">
+<!-- <a href="https://github.com/sobhanbera">
   <img src="https://profile-counter.glitch.me/sobhanbera/count.svg" alt="visitor badge" height="20px" />
-</a>
+</a> -->
 
 <a href="https://www.buymeacoffee.com/sobhanbera" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
 
