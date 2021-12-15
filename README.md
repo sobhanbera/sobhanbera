@@ -1,4 +1,4 @@
-ddd<!-- any theme image will come here -->
+<!-- any theme image will come here -->
 <!-- this might be any festival or any event -->
 <!-- <p align="center">
     <img src="https://github.com/sobhanbera/sobhanbera/blob/master/theme.png?raw=true" height="600" />
@@ -7,7 +7,9 @@ ddd<!-- any theme image will come here -->
 ## Hello, Geeks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 #### I am Sobhan Bera
-Very enthusiastic about open-source development. I am very passionate to learn new things quickly. I am an experienced web developer and an android developer. I love contributing to open-source. Besides this, I enjoy solving the Rubik cube and cycling. My Portfolio is <a href="https://sobhanbera.vercel.app/">
+Very enthusiastic about open-source development. I am very passionate to learn new things quickly. I am an experienced web developer and an android developer. I love contributing to open-source. Besides this, I enjoy solving the Rubik cube and cycling.
+<br/>
+My Portfolio is - <a href="https://sobhanbera.vercel.app/">
 https://sobhanbera.github.io</a>.
 
 <!-- **https://sobhanbera.github.io** -->
@@ -42,7 +44,7 @@ https://sobhanbera.github.io</a>.
 ```
 
 <!-- width="360px" height="270px" -->
-<img align="right" src="https://github.com/sobhanbera/sobhanbera/blob/master/coding_transparent.gif" height="270px">
+<img align="right" src="https://github.com/sobhanbera/sobhanbera/blob/master/programming_all_day_gif.gif" height="270px">
 
 ### Current Languages, Techs & Tools: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
 
@@ -76,42 +78,8 @@ https://sobhanbera.github.io</a>.
     <img src="https://d2wvdrxmr8p0wf.cloudfront.net/static/giveindia.svg" alt="Give india logo" width="180" />
 </a>
 
-## More Details:-
-    
 <details>
-    <summary>Education And Passion</summary>
-<!--     <img src="https://github.com/SobhanBera/SobhanBera/blob/master/loading.gif" width="25px"> -->
-
-### Education
-
--   **Holy Home English High School Balaghat M.P.**\
-    📆 2010 - 2018
--   **Balaghat English Higher Secondary School Balaghat M.P.**\
-    📆 2018 - 2020
--   **GH Raisoni College Of Engineering Nagpur Maharastra.**\
-    📆 2020 - Moment
--   Graduation Completes On\
-    📆 2025
-
-### Passion
-
--   Coding and Programming\
-    📆 2018 - Life Time
--   **Self Taught** Frontend Android Developer (Android Studio - Intermediate).\
-    📆 2018 - Moment
--   **Self Taught** Native App Developer (React Native - Experienced).\
-    📆 2019 - Moment
--   **Self Taught** Frontend Web Developer (Experienced).\
-    📆 2019 - Moment
--   Competitive Programming\
-    📆 2019 - Moment
--   **Open Source Contribution.**\
-    📆 2019 - Life Time
-
-</details>
-
-<details>
-  <summary>Programming Statistics</summary>
+    <summary>Programming Statistics</summary>
 
   <p>
     <a href="https://github.com/sobhanbera">
@@ -179,6 +147,7 @@ https://sobhanbera.github.io</a>.
   </a>&nbsp;&nbsp;
 </p>
 
+[portfolio]: https://sobhanbera.github.io
 [linkedin]: https://www.linkedin.com/in/sobhanbera/
 [twitter]: https://twitter.com/BeraSobhan
 [instagram]: https://www.instagram.com/sobhanbera_/
