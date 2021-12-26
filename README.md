@@ -49,8 +49,11 @@ https://sobhanbera.github.io</a>.
 ### Current Languages, Techs & Tools: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
 
 <p align="left">
-    <a href="https://www.javascript.com">
-        <img style="border-radius:25px" src="https://img.shields.io/badge/-Javascript-fdc500?style=for-the-badge&logo=Javascript&logoColor=000000" />        
+    <a href="https://git-scm.com/doc">
+        <img style="border-radius:25px" src="https://img.shields.io/badge/-git-F64D27?style=for-the-badge&logo=git&logoColor=fff" />        
+    </a>&nbsp;&nbsp;
+    <a href="https://www.typescriptlang.org/docs">
+        <img style="border-radius:25px" src="https://img.shields.io/badge/-typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff" />        
     </a>&nbsp;&nbsp;
     <a href="https://nextjs.org">
         <img style="border-radius:25px" src="https://img.shields.io/badge/-next-E7E7E7?style=for-the-badge&logo=react&logoColor=000000" />        
@@ -59,16 +62,13 @@ https://sobhanbera.github.io</a>.
         <img style="border-radius:25px" src="https://img.shields.io/badge/-react%20native-61DBFB?style=for-the-badge&logo=react&logoColor=000000" />        
     </a>&nbsp;&nbsp;
     <a href="https://www.mysql.com">
-        <img style="border-radius:25px" src="https://img.shields.io/badge/-SQL-F29111?style=for-the-badge&logo=mysql&logoColor=ffffff" />        
+        <img style="border-radius:25px" src="https://img.shields.io/badge/-SQL-F29111?style=for-the-badge&logo=mysql&logoColor=000" />        
     </a>&nbsp;&nbsp;
-    <a href="https://github.com/neovim/neovim/releases/tag/v0.5.1">
-        <img style="border-radius:25px" src="https://img.shields.io/badge/-vim-00a839?style=for-the-badge&logo=vim&logoColor=ffffff" />        
-    </a>&nbsp;&nbsp;
-    <a href="https://code.visualstudio.com/#alt-downloads">
-        <img style="border-radius:25px" src="https://img.shields.io/badge/-vscode-097CDB?style=for-the-badge&logo=vscode&logoColor=ffffff" />        
+    <a href="https://github.com/neovim/neovim/releases">
+        <img style="border-radius:25px" src="https://img.shields.io/badge/-neovim-569339?style=for-the-badge&logo=neovim&logoColor=ffffff" />        
     </a>&nbsp;&nbsp;
     <a href="https://www.arcolinux.info/choose-your-project">
-        <img style="border-radius:25px" src="https://img.shields.io/badge/-linux-0040ad?style=for-the-badge&logo=linux&logoColor=ffffff" />        
+        <img style="border-radius:25px" src="https://img.shields.io/badge/-archlinux-0040ad?style=for-the-badge&logo=archlinux&logoColor=ffffff" />        
     </a>&nbsp;&nbsp;
 </p>
 
