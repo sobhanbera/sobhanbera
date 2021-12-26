@@ -123,7 +123,7 @@ https://sobhanbera.github.io</a>.
   <img src="https://profile-counter.glitch.me/sobhanbera/count.svg" alt="visitor badge" height="20px" />
 </a> -->
 
-<a href="https://www.buymeacoffee.com/sobhanbera" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
+<!-- <a href="https://www.buymeacoffee.com/sobhanbera" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
 </br>
 <p align='center'>
