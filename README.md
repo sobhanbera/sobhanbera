@@ -72,11 +72,11 @@ https://sobhanbera.github.io</a>.
     </a>&nbsp;&nbsp;
 </p>
 
-</br>
+<!-- </br>
 <p>
     <a href="https://indiafightscorona.giveindia.org">
     <img src="https://d2wvdrxmr8p0wf.cloudfront.net/static/giveindia.svg" alt="Give india logo" width="180" />
-</a>
+</a> -->
 
 <details>
     <summary>Programming Statistics</summary>
