@@ -68,6 +68,9 @@ https://sobhanbera.github.io</a>.
     <img style="border-radius:25px" src="https://img.shields.io/badge/-archlinux-0040ad?style=for-the-badge&logo=archlinux&logoColor=ffffff" />        
     </a>&nbsp;&nbsp;
 </p>
+
+[![total hours of coding since march 2021](https://wakatime.com/badge/user/113c2bab-4bc8-4f01-9220-8af648c9e404.svg)](https://wakatime.com/@113c2bab-4bc8-4f01-9220-8af648c9e404)
+
 <!-- </br>
     <p>
         <a href="https://indiafightscorona.giveindia.org">
