@@ -11,7 +11,6 @@
 Very enthusiastic about open-source development. I am very passionate to learn new things quickly. I am an experienced web developer and an android developer. I love contributing to open-source. Besides this, I enjoy solving the Rubik cube and cycling.
 <br/>
 My Portfolio is [here](https://sobhanbera.github.io).
-https://sobhanbera.github.io</a>.
 
 <!-- **https://sobhanbera.github.io** -->
 <!--   <p>
