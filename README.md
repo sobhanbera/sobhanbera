@@ -12,16 +12,6 @@ Very enthusiastic about open-source development. I am very passionate to learn n
 <br/>
 My Portfolio is [here](https://sobhanbera.github.io).
 
-### Current Status:
-
-- 💻 Full-Stack Professional Software Developer.
-- ✨ UI/UX Designer.
-- 🎵 Listening to music every time and singing along with it.
-- 📘 Continuing to learn Android Development.
-- 🧠 Always learning some new stuff. And regularly building software.
-- ❤️ Also working professionally as a full-stack web/android developer.
-- 🎓 2nd year B.Tech student of Computer Science and Engineering.
-- 🏫 Always ready to bunk boring classes and do programming.
 
 <!-- **https://sobhanbera.github.io** -->
 <!--   <p>
@@ -40,6 +30,7 @@ My Portfolio is [here](https://sobhanbera.github.io).
 
 <!-- ### What I am Doing Currently?
 
+
 ```diff
 ---
 +++ Working on an android application (personal project) which would be publish on January - March at Google Play Store.
@@ -49,9 +40,20 @@ My Portfolio is [here](https://sobhanbera.github.io).
 ---
 ```
  -->
-<!-- width="360px" height="270px" -->
+
 <!-- <img align="right" src="https://github.com/sobhanbera/sobhanbera/blob/master/programming_all_day_gif.gif" height="270px"> -->
 <img align="right" src="https://wakatime.com/share/@sobhanbera/dc2fa4ee-436f-414d-9f1b-ce509e8658d4.png" height="300px">
+
+### Current Status:
+
+- 💻 Full-Stack Professional Software Developer.
+- ✨ UI/UX Designer.
+- 🎵 Listening to music every time and singing along with it.
+- 📘 Continuing to learn Android Development.
+- 🧠 Always learning some new stuff. And regularly building software.
+- ❤️ Also working professionally as a full-stack web/android developer.
+- 🎓 2nd year B.Tech student of Computer Science and Engineering.
+- 🏫 Always ready to bunk boring classes and do programming.
 
 ### Languages, Techs & Tools: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
 
