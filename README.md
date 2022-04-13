@@ -12,6 +12,17 @@ Very enthusiastic about open-source development. I am very passionate to learn n
 <br/>
 My Portfolio is [here](https://sobhanbera.github.io).
 
+### Current Status:
+
+- 💻 Full-Stack Professional Software Developer.
+- ✨ UI/UX Designer.
+- 🎵 Listening to music every time and singing along with it.
+- 📘 Continuing to learn Android Development.
+- 🧠 Always learning some new stuff. And regularly building software.
+- ❤️ Also working professionally as a full-stack web/android developer.
+- 🎓 2nd year B.Tech student of Computer Science and Engineering.
+- 🏫 Always ready to bunk boring classes and do programming.
+
 <!-- **https://sobhanbera.github.io** -->
 <!--   <p>
     <a href="https://sobhanbera.github.io/portfolio" style="color:#40404ef;">My Portfolio Website - At Github Pages</a>
@@ -46,25 +57,25 @@ My Portfolio is [here](https://sobhanbera.github.io).
 
 <p align="left">
     <a href="https://git-scm.com/doc">
-    <img style="border-radius:25px" src="https://img.shields.io/badge/-git-F64D27?style=for-the-badge&logo=git&logoColor=fff" />        
+    <img style="border-radius:25px" src="https://img.shields.io/badge/-git-F64D27?style=for-the-badge&logo=git&logoColor=fff" />
     </a>&nbsp;&nbsp;
     <a href="https://www.typescriptlang.org/docs">
-    <img style="border-radius:25px" src="https://img.shields.io/badge/-typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff" />        
+    <img style="border-radius:25px" src="https://img.shields.io/badge/-typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff" />
     </a>&nbsp;&nbsp;
     <a href="https://nextjs.org">
-    <img style="border-radius:25px" src="https://img.shields.io/badge/-next-E7E7E7?style=for-the-badge&logo=react&logoColor=000000" />        
+    <img style="border-radius:25px" src="https://img.shields.io/badge/-next-E7E7E7?style=for-the-badge&logo=react&logoColor=000000" />
     </a>&nbsp;&nbsp;
     <a href="https://reactnative.dev">
-    <img style="border-radius:25px" src="https://img.shields.io/badge/-react%20native-61DBFB?style=for-the-badge&logo=react&logoColor=000000" />        
+    <img style="border-radius:25px" src="https://img.shields.io/badge/-react%20native-61DBFB?style=for-the-badge&logo=react&logoColor=000000" />
     </a>&nbsp;&nbsp;
     <a href="https://www.mysql.com">
-    <img style="border-radius:25px" src="https://img.shields.io/badge/-SQL-F29111?style=for-the-badge&logo=mysql&logoColor=000" />        
+    <img style="border-radius:25px" src="https://img.shields.io/badge/-SQL-F29111?style=for-the-badge&logo=mysql&logoColor=000" />
     </a>&nbsp;&nbsp;
     <a href="https://github.com/neovim/neovim/releases">
-    <img style="border-radius:25px" src="https://img.shields.io/badge/-neovim-569339?style=for-the-badge&logo=neovim&logoColor=ffffff" />        
+    <img style="border-radius:25px" src="https://img.shields.io/badge/-neovim-569339?style=for-the-badge&logo=neovim&logoColor=ffffff" />
     </a>&nbsp;&nbsp;
     <a href="https://www.arcolinux.info/choose-your-project">
-    <img style="border-radius:25px" src="https://img.shields.io/badge/-archlinux-0040ad?style=for-the-badge&logo=archlinux&logoColor=ffffff" />        
+    <img style="border-radius:25px" src="https://img.shields.io/badge/-archlinux-0040ad?style=for-the-badge&logo=archlinux&logoColor=ffffff" />
     </a>&nbsp;&nbsp;
 </p>
 
@@ -121,7 +132,7 @@ My Portfolio is [here](https://sobhanbera.github.io).
     <a href="mailto:sobhanbera258@gmail.com">
     <img style="border-radius:25px" src="https://img.shields.io/badge/-sobhanbera258-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sobhanbera258@gmail.com" />
 <!--     <a href="https://www.instagram.com/sobhanbera_/">
-    <img  style="border-radius:25px"src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    <img  style="border-radius:25px"src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
     </a>&nbsp;&nbsp; -->
 </p>
 <!-- <p align='center'>
@@ -129,7 +140,7 @@ My Portfolio is [here](https://sobhanbera.github.io).
     <img style="border-radius:25px" src="https://img.shields.io/badge/sobhanbera-%233b5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
     </a>&nbsp;&nbsp;
     <a href="https://twitter.com/BeraSobhan">
-    <img style="border-radius:25px" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+    <img style="border-radius:25px" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
     </a>&nbsp;&nbsp;
     <a href="mailto:sobhanbera258@gmail.com">
     <img style="border-radius:25px" src="https://img.shields.io/badge/-sobhanbera258-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sobhanbera258@gmail.com" />
