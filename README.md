@@ -55,7 +55,7 @@ My Portfolio is [here](https://sobhanbera.github.io).
 - 🎓 2nd year B.Tech student of Computer Science and Engineering.
 - 🏫 Always ready to bunk boring classes and do programming.
 
-### Languages, Techs & Tools: <img src="https://github.com/SobhanBera/SobhanBera/blob/master/tools.gif" width="30px">
+### Languages, Techs & Tools:
 
 <p align="left">
     <a href="https://git-scm.com/doc">
