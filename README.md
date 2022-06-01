@@ -46,16 +46,19 @@ My Portfolio is [here](https://sobhanbera.github.io).
 
 ### Current Status:
 
-- 💻 Full-Stack Professional Software Developer.
-- ✨ UI/UX Designer.
-- 🎵 Listening to music every time and singing along with it.
-- 📘 Continuing to learn Android Development.
-- 🧠 Always learning some new stuff. And regularly building software.
-- ❤️ Also working professionally as a full-stack web/android developer.
-- 🎓 2nd year B.Tech student of Computer Science and Engineering.
-- 🏫 Always ready to bunk boring classes and do programming.
+- 💻  Full-Stack Professional Software Developer.
+- ✨  UI/UX Designer.
+- 🎵  Listening to music every time and singing along with it.
+- 📘  Continuing to learn Android Development.
+- 🧑‍💻  Also working on my new portfolio website - v2.
+- 🧠  Always learning some new stuff. And regularly building software.
+- ❤️  Also working professionally as a full-stack web/android developer.
+- 🎓  2nd year B.Tech student of Computer Science and Engineering.
+- 🏫  Always ready to bunk boring classes and do programming.
+- 🌐  Currently open to work on projects.
 
-### Languages, Techs & Tools:
+
+### Tech & Tools:
 
 <p align="left">
     <a href="https://git-scm.com/doc">
@@ -89,7 +92,7 @@ My Portfolio is [here](https://sobhanbera.github.io).
         <img src="https://d2wvdrxmr8p0wf.cloudfront.net/static/giveindia.svg" alt="Give india logo" width="180" />
     </a> -->
 <details>
-    <summary>Programming Statistics</summary>
+    <summary><h4>More Programming Stats:</h4></summary>
     <p>
         <a href="https://github.com/sobhanbera">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sobhanbera&layout=compact&theme=dark" width="400">
