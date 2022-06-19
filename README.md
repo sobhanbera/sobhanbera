@@ -42,7 +42,7 @@ My Portfolio is [here](https://sobhanbera.github.io).
  -->
 
 <!-- <img align="right" src="https://github.com/sobhanbera/sobhanbera/blob/master/programming_all_day_gif.gif" height="270px"> -->
-<img align="right" src="https://wakatime.com/share/@sobhanbera/0bc526e7-1ca4-408d-90f3-db932c185146.svg" height="300px">
+<img align="right" src="https://wakatime.com/share/@sobhanbera/a8163cce-a9e2-4bad-8dc4-39f1191d6738.svg" height="300px">
 
 ### Current Status:
 
