@@ -56,6 +56,7 @@ My Portfolio is [here](https://sobhanbera.github.io).
 - 🎓  2nd year B.Tech student of Computer Science and Engineering.
 - 🏫  Always ready to bunk boring classes and do programming.
 - 🌐  Currently open to work on projects.
+- 🌐  At present I am also working on a full-stack android personal project.
 
 
 ### Tech & Tools:
