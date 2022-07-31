@@ -92,18 +92,15 @@ My Portfolio is [here](https://sobhanbera.github.io).
         <a href="https://indiafightscorona.giveindia.org">
         <img src="https://d2wvdrxmr8p0wf.cloudfront.net/static/giveindia.svg" alt="Give india logo" width="180" />
     </a> -->
+    
+<p>
+    <a href="https://github.com/sobhanbera">
+    <img src="https://activity-graph.herokuapp.com/graph?username=sobhanbera&theme=xcode&custom_title=Activity%20Graph&hide_border=true" width="400">
+    </a>
+</p>
+    
 <details>
     <summary><h4>More Programming Stats:</h4></summary>
-    <p>
-        <a href="https://github.com/sobhanbera">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sobhanbera&layout=compact&theme=dark" width="400">
-        </a>
-    </p>
-    <p>
-        <a href="https://github.com/sobhanbera">
-        <img src="https://activity-graph.herokuapp.com/graph?username=sobhanbera&theme=xcode&custom_title=Activity%20Graph&hide_border=true" width="400">
-        </a>
-    </p>
     <p>
         <a href="https://github.com/sobhanbera">
         <img src="https://github-readme-stats.vercel.app/api?username=sobhanbera&show_icons=true&count_private=true&theme=dark" width="400">
