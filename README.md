@@ -46,17 +46,13 @@ My Portfolio is [here](https://sobhanbera.github.io).
 
 ### Current Status:
 
-- 💻  Full-Stack Professional Software Developer.
+- 💻  Professional Full-Stack Software Developer.
 - ✨  UI/UX Designer.
 - 🎵  Listening to music every time and singing along with it.
-- 📘  Continuing to learn Android Development.
-- 🧑‍💻  Also working on my new portfolio website - v2.
-- 🧠  Always learning some new stuff. And regularly building software.
-- ❤️  Also working professionally as a full-stack web/android developer.
-- 🎓  2nd year B.Tech student of Computer Science and Engineering.
+- 🧠  Always learning some new stuff. And regularly building projects.
+- 🎓  Working in SIH'22 Project.
 - 🏫  Always ready to bunk boring classes and do programming.
-- 🌐  Currently open to work on projects.
-- 🌐  At present I am also working on a full-stack android personal project.
+- 🌐  Currently not open to work on projects.
 
 
 ### Tech & Tools:
