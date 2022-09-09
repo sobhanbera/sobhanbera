@@ -4,6 +4,8 @@
     <img src="https://github.com/sobhanbera/sobhanbera/blob/master/theme.png?raw=true" height="600" />
     </p> -->
 
+<img width="1587" alt="cover" src="https://user-images.githubusercontent.com/50291544/189394888-a40dccab-7566-4956-a811-ec60b42c1dee.png">
+
 ## Hello, Geeks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 
 #### I am Sobhan Bera
