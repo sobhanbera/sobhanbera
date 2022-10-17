@@ -75,11 +75,17 @@ My Portfolio is [here](https://sobhanbera.github.io).
     <a href="https://www.mysql.com">
     <img style="border-radius:25px" src="https://img.shields.io/badge/-SQL-F29111?style=for-the-badge&logo=mysql&logoColor=000" />
     </a>&nbsp;&nbsp;
+    <a href="https://www.docker.com">
+    <img style="border-radius:25px" src="https://img.shields.io/badge/-docker-003F8C?style=for-the-badge&logo=docker&logoColor=ffffff" />
+    </a>&nbsp;&nbsp;
     <a href="https://github.com/neovim/neovim/releases">
     <img style="border-radius:25px" src="https://img.shields.io/badge/-neovim-569339?style=for-the-badge&logo=neovim&logoColor=ffffff" />
     </a>&nbsp;&nbsp;
     <a href="https://www.arcolinux.info/choose-your-project">
     <img style="border-radius:25px" src="https://img.shields.io/badge/-archlinux-0040ad?style=for-the-badge&logo=archlinux&logoColor=ffffff" />
+    </a>&nbsp;&nbsp;
+    <a href="https://apple.com">
+    <img style="border-radius:25px" src="https://img.shields.io/badge/-MacOS-AF2EA8?style=for-the-badge&logo=apple&logoColor=ffffff" />
     </a>&nbsp;&nbsp;
 </p>
 
