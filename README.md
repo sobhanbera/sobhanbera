@@ -52,7 +52,6 @@ My Portfolio is [here](https://sobhanbera.github.io).
 - ✨  UI/UX Designer.
 - 🎵  Listening to music every time and singing along with it.
 - 🧠  Always learning some new stuff. And regularly building projects.
-- 🎓  Working in SIH'22 Project.
 - 🏫  Always ready to bunk boring classes and do programming.
 - 🌐  Currently not open to work on projects.
 
