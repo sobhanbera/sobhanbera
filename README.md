@@ -55,6 +55,7 @@ My Portfolio is [here](https://sobhanbera.github.io).
 - 🏫  Always ready to bunk boring classes and do programming.
 - 🌐  Currently not open to work on projects.
 
+<br/>
 
 ### Tech & Tools:
 
