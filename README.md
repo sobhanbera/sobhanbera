@@ -97,11 +97,11 @@ My Portfolio is [here](https://sobhanbera.github.io).
         <img src="https://d2wvdrxmr8p0wf.cloudfront.net/static/giveindia.svg" alt="Give india logo" width="180" />
     </a> -->
     
-<p>
+<!-- <p>
     <a href="https://github.com/sobhanbera">
     <img src="https://activity-graph.herokuapp.com/graph?username=sobhanbera&theme=xcode&custom_title=Activity%20Graph&hide_border=true" width="400">
     </a>
-</p>
+</p> -->
     
 <details>
     <summary><h4>More Programming Stats:</h4></summary>
