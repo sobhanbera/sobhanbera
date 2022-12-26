@@ -48,11 +48,13 @@ My Portfolio is [here](https://sobhanbera.github.io).
 
 ### Current Status:
 
+- 💻  Currently working on microsoft imagine cup project.
 - 💻  Professional Full-Stack Software Developer.
 - ✨  UI/UX Designer.
 - 🎵  Listening to music every time and singing along with it.
-- 🧠  Always learning some new stuff. And regularly building projects.
-- 🏫  Always ready to bunk boring classes and do programming.
+- 🧠  Always learning some new stuffs.
+- 🌐  Regularly building projects.
+- 🏫  Always ready to bunk any classes for programming.
 - 🌐  Currently not open to work on projects.
 
 <br/>
