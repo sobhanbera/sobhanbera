@@ -10,7 +10,7 @@
 
 #### I am Sobhan Bera
 
-Very enthusiastic about open-source development. I am very passionate to learn new things quickly. I am an experienced web developer and an android developer. I love contributing to open-source. Besides this, I enjoy solving the Rubik cube and cycling.
+Very enthusiastic about open-source development. I am very passionate to learn new things quickly. I am an experienced web developer and an android developer. I love contributing to open-source. Besides this, I love reading books and listening to music (that's must everytime).
 <br/>
 My Portfolio is [here](https://sobhanbera.github.io).
 
@@ -52,6 +52,7 @@ My Portfolio is [here](https://sobhanbera.github.io).
 - 💻  Professional Full-Stack Software Developer.
 - ✨  UI/UX Designer.
 - 🎵  Listening to music every time and singing along with it.
+- 📚  Books are very necessary you know!
 - 🧠  Always learning some new stuffs.
 - 🌐  Regularly building projects.
 - 🏫  Always ready to bunk any classes for programming.
