@@ -4,12 +4,15 @@
 
 I am a highly enthusiastic open-source developer, driven by a passion for continuous learning. With extensive experience in both web and android development along with DevOps and Linux Ricing. In my free time, you can find me engrossed in books and music, which are constant sources of joy and inspiration for me.
 
+##### My headphones and keyboard are my weapons of choice!
+
 
 <img align="right" src="https://wakatime.com/share/@sobhanbera/a8163cce-a9e2-4bad-8dc4-39f1191d6738.svg" height="300px">
 
 ### Current Status:
 
-- 🔭 I am currently developing a music streaming application called [Sobyte](https://github.com/sobhanbera).
+- 🔭 Currently developing a music streaming application called [Sobyte](https://github.com/sobhanbera).
+- ✅ Currently very active in different technical communities as Attendee, Organizer, Speaker and Member.
 - 💻 As a Full-Stack Software Developer & UI/UX Designer, I bring a diverse skillset to the table.
 - 💬 Feel free to ask me anything by creating an [issue](https://github.com/sobhanbera/sobhanbera/issues) on my GitHub.
 - 🎵 Music is a constant companion and I enjoy singing along to my favorite tunes.
