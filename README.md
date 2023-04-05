@@ -26,14 +26,17 @@ I am a highly enthusiastic open-source developer, driven by a passion for contin
 ### Tech & Tools:
 
 <p align="left">
-    <a href="https://git-scm.com/doc">
-    <img style="border-radius:25px" src="https://img.shields.io/badge/-git-F64D27?style=for-the-badge&logo=git&logoColor=fff" />
+    <a href="https://developer.android.com/kotlin">
+    <img style="border-radius:25px" src="https://img.shields.io/badge/-ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=ffffff&labelColor=3DDC84&color=E24462" />
+    </a>&nbsp;&nbsp;
+    <a href="https://developer.android.com/kotlin">
+    <img style="border-radius:25px" src="https://img.shields.io/badge/-KOTLIN-E24462?style=for-the-badge&logo=kotlin&logoColor=ffffff" />
     </a>&nbsp;&nbsp;
     <a href="https://www.typescriptlang.org/docs">
     <img style="border-radius:25px" src="https://img.shields.io/badge/-typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff" />
     </a>&nbsp;&nbsp;
     <a href="https://nextjs.org">
-    <img style="border-radius:25px" src="https://img.shields.io/badge/-next-E7E7E7?style=for-the-badge&logo=react&logoColor=000000" />
+    <img style="border-radius:25px" src="https://img.shields.io/badge/-next-E7E7E7?style=for-the-badge&logo=vercel&logoColor=000000" />
     </a>&nbsp;&nbsp;
     <a href="https://reactnative.dev">
     <img style="border-radius:25px" src="https://img.shields.io/badge/-react%20native-61DBFB?style=for-the-badge&logo=react&logoColor=000000" />
@@ -52,9 +55,6 @@ I am a highly enthusiastic open-source developer, driven by a passion for contin
     </a>&nbsp;&nbsp;
     <a href="https://kubernetes.io">
     <img style="border-radius:25px" src="https://img.shields.io/badge/-k8s-326ce5?style=for-the-badge&logo=kubernetes&logoColor=ffffff" />
-    </a>&nbsp;&nbsp;
-    <a href="https://apple.com">
-    <img style="border-radius:25px" src="https://img.shields.io/badge/-MacOS-AF2EA8?style=for-the-badge&logo=apple&logoColor=ffffff" />
     </a>&nbsp;&nbsp;
 </p>
 
