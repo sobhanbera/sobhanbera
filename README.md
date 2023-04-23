@@ -11,15 +11,15 @@ I am a highly enthusiastic open-source developer, driven by a passion for contin
 
 ### Current Status:
 
-- 🔭 Currently developing a music streaming application called [Sobyte](https://github.com/sobhanbera).
-- ✅ Currently very active in different technical communities as Attendee, Organizer, Speaker and Member.
-- 💻 As a Full-Stack Software Developer & UI/UX Designer, I bring a diverse skillset to the table.
-- 💬 Feel free to ask me anything by creating an [issue](https://github.com/sobhanbera/sobhanbera/issues) on my GitHub.
-- 🎵 Music is a constant companion and I enjoy singing along to my favorite tunes.
-- 📚 I believe that books are essential for personal growth and make a point to read regularly.
-- 🧠 I am always seeking to expand my knowledge and learn new things.
-- 🌱 Building projects is a regular part of my routine, helping me to hone my skills and stay up-to-date.
-- 🏫 I would not hesitate to miss a class to delve into some programming.
+- 🔭 Currently developing a music streaming application called **[Sobyte](https://github.com/noisymelo/sobyte)**
+- ✅ Currently very active in different technical communities as Attendee, Organizer, Speaker, Member & more
+- 💻 As a Full-Stack Software Developer & UI/UX Designer, I bring a diverse skillset to the table
+- 💬 Feel free to ask me anything by creating an [issue](https://github.com/sobhanbera/sobhanbera/issues) on my GitHub
+- 🎵 Music is a constant companion and I enjoy singing along to my favorite tunes
+- 📚 I believe that books are essential for personal growth and make a point to read regularly
+- 🧠 I am always seeking to expand my knowledge and learn new things
+- 🌱 Building projects is a regular part of my routine, helping me to hone my skills and stay up-to-date
+- 🏫 I would not hesitate to miss a class to delve into some programming... 
 
 <br/>
 
