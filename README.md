@@ -60,6 +60,8 @@ I am a highly enthusiastic open-source developer, driven by a passion for contin
 
 [![total hours of coding since march 2021](https://wakatime.com/badge/user/113c2bab-4bc8-4f01-9220-8af648c9e404.svg)](https://wakatime.com/@113c2bab-4bc8-4f01-9220-8af648c9e404)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=sobhanbera)
+
 <details>
     <summary><h4>More Programming Stats:</h4></summary>
     <p>
