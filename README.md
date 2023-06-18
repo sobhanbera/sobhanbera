@@ -1,34 +1,25 @@
-<img width="100%" src="https://user-images.githubusercontent.com/50291544/189394888-a40dccab-7566-4956-a811-ec60b42c1dee.png">
+## Hi there, I'm [Sobhan Bera](https://sobhanbera.github.io) 👋
 
-## Hi there, I'm [Sobhan Bera](https://sobhanbera.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
-
-I am a highly enthusiastic open-source developer, driven by a passion for continuous learning. With extensive experience in both web and android development along with DevOps and Linux Ricing. In my free time, you can find me engrossed in books and music, which are constant sources of joy and inspiration for me.
+I am a highly enthusiastic open-source developer, driven by a passion for continuous learning. With extensive experience in both web and Android development. In my free time, you can find me engrossed in books and music, which are constant sources of joy and inspiration for me.
 
 ##### My headphones and keyboard are my weapons of choice!
-
 
 <img align="right" src="https://wakatime.com/share/@sobhanbera/a8163cce-a9e2-4bad-8dc4-39f1191d6738.svg" height="300px">
 
 ### Current Status:
 
-- 🔭 Currently developing a music streaming application called **[Sobyte](https://github.com/noisymelo/sobyte)**
-- ✅ Currently very active in different technical communities as Attendee, Organizer, Speaker, Member & more
-- 💻 As a Full-Stack Software Developer & UI/UX Designer, I bring a diverse skillset to the table
-- 💬 Feel free to ask me anything by creating an [issue](https://github.com/sobhanbera/sobhanbera/issues) on my GitHub
-- 🎵 Music is a constant companion and I enjoy singing along to my favorite tunes
-- 📚 I believe that books are essential for personal growth and make a point to read regularly
-- 🧠 I am always seeking to expand my knowledge and learn new things
-- 🌱 Building projects is a regular part of my routine, helping me to hone my skills and stay up-to-date
-- 🏫 I would not hesitate to miss a class to delve into some programming... 
+- 🔭 Currently developing a music streaming application called **[Sobyte](https://github.com/noisymelo/sobyte)**.
+- ✅ Active in different technical communities as Attendee, Organizer, Speaker, Member & more.
+- 💬 Feel free to ask me anything [here](mailto:sobhanbera258@gmail.com).
 
 <br/>
 
 ### Tech & Tools:
 
 <p align="left">
-    <a href="https://developer.android.com/kotlin">
+<!--     <a href="https://developer.android.com/kotlin">
     <img style="border-radius:25px" src="https://img.shields.io/badge/-ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=ffffff&labelColor=3DDC84&color=E24462" />
-    </a>&nbsp;&nbsp;
+    </a>&nbsp;&nbsp; -->
     <a href="https://developer.android.com/kotlin">
     <img style="border-radius:25px" src="https://img.shields.io/badge/-KOTLIN-E24462?style=for-the-badge&logo=kotlin&logoColor=ffffff" />
     </a>&nbsp;&nbsp;
@@ -47,23 +38,21 @@ I am a highly enthusiastic open-source developer, driven by a passion for contin
     <a href="https://github.com/neovim/neovim/releases">
     <img style="border-radius:25px" src="https://img.shields.io/badge/-neovim-569339?style=for-the-badge&logo=neovim&logoColor=ffffff" />
     </a>&nbsp;&nbsp;
-    <a href="https://www.arcolinux.info/choose-your-project">
+<!--     <a href="https://www.arcolinux.info/choose-your-project">
     <img style="border-radius:25px" src="https://img.shields.io/badge/-archlinux-0040ad?style=for-the-badge&logo=archlinux&logoColor=ffffff" />
-    </a>&nbsp;&nbsp;
+    </a>&nbsp;&nbsp; -->
     <a href="https://www.docker.com">
     <img style="border-radius:25px" src="https://img.shields.io/badge/-docker-003F8C?style=for-the-badge&logo=docker&logoColor=ffffff" />
     </a>&nbsp;&nbsp;
-    <a href="https://kubernetes.io">
+<!--     <a href="https://kubernetes.io">
     <img style="border-radius:25px" src="https://img.shields.io/badge/-k8s-326ce5?style=for-the-badge&logo=kubernetes&logoColor=ffffff" />
-    </a>&nbsp;&nbsp;
+    </a>&nbsp;&nbsp; -->
 </p>
 
 [![total hours of coding since march 2021](https://wakatime.com/badge/user/113c2bab-4bc8-4f01-9220-8af648c9e404.svg)](https://wakatime.com/@113c2bab-4bc8-4f01-9220-8af648c9e404)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sobhanbera)
-
 <details>
-    <summary><h4>More Programming Stats:</h4></summary>
+    <summary><h4>More Stats:</h4></summary>
     <p>
         <a href="https://github.com/sobhanbera">
         <img src="https://github-readme-stats.vercel.app/api?username=sobhanbera&show_icons=true&count_private=true&theme=dark" width="400">
