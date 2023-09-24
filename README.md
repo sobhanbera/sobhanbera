@@ -6,6 +6,7 @@ I am a highly enthusiastic open-source developer, driven by a passion for contin
 
 <img align="right" src="https://wakatime.com/share/@sobhanbera/a8163cce-a9e2-4bad-8dc4-39f1191d6738.svg" height="300px">
 
+
 ### Current Status:
 
 - 🔭 Currently developing a music streaming application called **[Sobyte](https://github.com/noisymelo/sobyte)**.
@@ -13,6 +14,8 @@ I am a highly enthusiastic open-source developer, driven by a passion for contin
 - 💬 Feel free to ask me anything [here](mailto:sobhanbera258@gmail.com).
 
 <br/>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaileshthakur1" alt="shaileshthakur1" /></a> </p>
 
 ### Tech & Tools:
 
